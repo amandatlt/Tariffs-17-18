@@ -1,0 +1,1283 @@
+"hrgcode","hrg","trim.el","trim.nel","nelshortst","perc.nelshortst","tariff.op","tariff.dcel","tariff.dc","tariff.el","tariff.nel","tariff.overtrim","tariff.nelshortst"
+"AA02B","Intracranial Procedures for Trauma with Diagnosis of Intracranial Injury without CC",15,21,"No","-",0,4733,0,0,4945,200,0
+"AA03A","Intracranial Procedures for Trauma with Diagnosis of Head Injury or Skull Fracture, with CC",26,28,"No","-",0,7518,0,0,5688,200,0
+"AA03B","Intracranial Procedures for Trauma with Diagnosis of Head Injury or Skull Fracture, without CC",10,16,"No","-",0,4662,0,0,4421,200,0
+"AA04A","Major Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, with CC",50,87,"No","-",0,9556,0,0,12846,200,0
+"AA04B","Major Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, without CC",13,61,"No","-",0,4375,0,0,9575,200,0
+"AA05A","Major Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders with CC",20,62,"No","-",0,5915,0,0,11536,200,0
+"AA05B","Major Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders without CC",5,34,"No","-",0,3831,0,0,8269,200,0
+"AA06A","Major Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts, with CC",18,42,"No","-",0,7071,0,0,10215,200,0
+"AA06B","Major Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts, without CC",14,24,"No","-",0,4502,0,0,7975,200,0
+"AA07A","Major Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System, with CC",15,34,"No","-",0,6751,0,0,8176,200,0
+"AA07B","Major Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System, without CC",10,22,"No","-",0,4269,0,0,6104,200,0
+"AA08A","Major Intracranial Procedures Except Trauma with Muscular, Balance, Cranial or Peripheral Nerve Disorders or Epilepsy, with CC",12,12,"No","-",0,6356,0,0,6356,200,0
+"AA08B","Major Intracranial Procedures Except Trauma with Muscular, Balance, Cranial or Peripheral Nerve Disorders or Epilepsy, without CC",9,12,"No","-",0,5063,0,0,6356,200,0
+"AA09A","Major Intracranial Procedures Except Trauma with Other Diagnoses with CC",8,54,"No","-",0,2384,0,0,9222,200,0
+"AA09B","Major Intracranial Procedures Except Trauma with Other Diagnoses without CC",5,34,"No","-",0,652,0,0,6640,200,0
+"AA10A","Intermediate Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, with CC",32,86,"No","-",0,6601,0,0,12865,200,0
+"AA10B","Intermediate Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, without CC",19,34,"No","-",0,4363,0,0,5943,200,0
+"AA11A","Intermediate Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders with CC",47,79,"No","-",0,9315,0,0,11671,200,0
+"AA11B","Intermediate Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders without CC",188,53,"No","-",0,2686,0,0,8036,200,0
+"AA12A","Intermediate Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts, with CC",13,30,"No","-",0,5901,0,0,7853,200,0
+"AA12B","Intermediate Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts, without CC",11,20,"No","-",0,5493,0,0,7020,200,0
+"AA13A","Intermediate Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System with CC",13,35,"No","-",0,4888,0,0,6807,200,0
+"AA13B","Intermediate Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System without CC",10,21,"No","-",0,4409,0,0,5120,200,0
+"AA14A","Intermediate Intracranial Procedures Except Trauma with Muscular, Balance, Cranial or Peripheral Nerve Disorders or Epilepsy, with CC",5,33,"No","-",0,2712,0,0,4169,200,0
+"AA14B","Intermediate Intracranial Procedures Except Trauma with Muscular, Balance, Cranial or Peripheral Nerve Disorders or Epilepsy, without CC",5,33,"No","-",0,2712,0,0,4169,200,0
+"AA15A","Intermediate Intracranial Procedures Except Trauma with Other Diagnoses with CC",16,56,"No","-",0,4784,0,0,8865,200,0
+"AA15B","Intermediate Intracranial Procedures Except Trauma with Other Diagnoses without CC",11,40,"No","-",0,3720,0,0,6874,200,0
+"AA16A","Minor Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, with CC",24,54,"No","-",0,6226,0,0,7626,200,0
+"AA16B","Minor Intracranial Procedures Except Trauma with Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, without CC",6,38,"No","-",0,2458,0,0,6512,200,0
+"AA17A","Minor Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders with CC",19,60,"No","-",0,7105,0,0,7649,200,0
+"AA17B","Minor Intracranial Procedures Except Trauma with Haemorrhagic Cerebrovascular Disorders without CC",5,33,"No","-",0,5751,0,0,4995,200,0
+"AA18A","Minor Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts, with CC",11,29,"No","-",0,4127,0,0,5953,200,0
+"AA18B","Minor Intracranial Procedures Except Trauma with Brain Tumours or Cerebral Cysts, without CC",9,21,"No","-",0,3939,0,0,5320,200,0
+"AA19A","Minor Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System, with CC",8,20,"No","-",0,2041,0,0,4454,200,0
+"AA19B","Minor Intracranial Procedures Except Trauma with Cerebral Degenerations or Miscellaneous Disorders of Nervous System, without CC",5,11,"No","-",0,1597,0,0,3182,200,0
+"AA20A","Minor Intracranial Procedures Except Trauma with Muscular, Balance, Cranial or Peripheral Nerve Disorders or Epilepsy, with CC",5,22,"No","-",0,2520,0,0,3442,200,0
+"AA20B","Minor Intracranial Procedures Except Trauma with Muscular, Balance, Cranial or Peripheral Nerve Disorders or Epilepsy, without CC",5,5,"No","-",0,1822,0,0,1519,200,0
+"AA21A","Minor Intracranial Procedures Except Trauma with Other Diagnoses with CC",5,36,"No","-",0,1489,0,0,5588,200,0
+"AA21B","Minor Intracranial Procedures Except Trauma with Other Diagnoses without CC",5,21,"No","-",0,823,0,0,4146,200,0
+"AA22A","Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, with CC",63,41,"Yes","30%",0,3388,0,0,3781,200,1134
+"AA22B","Non-Transient Stroke or Cerebrovascular Accident, Nervous System Infections or Encephalopathy, without CC",5,16,"Yes","30%",0,671,0,0,2220,200,666
+"AA23A","Haemorrhagic Cerebrovascular Disorders with CC",117,45,"Yes","30%",0,7068,0,0,3994,200,1198
+"AA23B","Haemorrhagic Cerebrovascular Disorders without CC",44,13,"Yes","30%",0,3451,0,0,2085,200,625
+"AA24A","Brain Tumours or Cerebral Cysts, with CC",5,32,"Yes","30%",0,944,0,0,3243,200,973
+"AA24B","Brain Tumours or Cerebral Cysts, without CC",5,14,"Yes","30%",0,642,0,0,2045,200,613
+"AA25A","Cerebral Degenerations or Miscellaneous Disorders of Nervous System, with CC",5,24,"Yes","30%",0,1269,0,0,2570,200,771
+"AA25B","Cerebral Degenerations or Miscellaneous Disorders of Nervous System, without CC",5,8,"Yes","40%",0,492,0,0,1514,200,606
+"AA26A","Muscular, Balance, Cranial or Peripheral Nerve Disorders, Epilepsy or Head Injury, with CC",5,13,"No","-",0,852,0,0,1194,200,0
+"AA26B","Muscular, Balance, Cranial or Peripheral Nerve Disorders, Epilepsy or Head Injury, without CC",5,5,"No","-",0,588,0,0,590,200,0
+"AA27A","Medical Care of Patients with Alzheimer's Disease with CC",84,55,"Yes","30%",0,3140,0,0,4611,200,1384
+"AA27B","Medical Care of Patients with Alzheimer's Disease without CC",5,9,"Yes","30%",0,389,0,0,1633,200,489
+"AA28A","Motor Neuron Disease with CC",18,51,"Yes","30%",0,2202,0,0,4686,200,1405
+"AA28B","Motor Neuron Disease without CC",10,19,"Yes","30%",0,1536,0,0,2760,200,828
+"AA29A","Transient Ischaemic Attack with CC",5,6,"Yes","40%",0,449,0,0,1320,200,528
+"AA29B","Transient Ischaemic Attack without CC",5,5,"Yes","100%",0,426,0,0,505,200,505
+"AA30A","Medical Care of Patients with Multiple Sclerosis with CC",5,37,"Yes","30%",0,496,0,0,3332,200,999
+"AA30B","Medical Care of Patients with Multiple Sclerosis without CC",5,13,"Yes","40%",0,339,0,0,1974,200,789
+"AA31A","Headache, Migraine or Cerebrospinal Fluid Leak, with CC",5,5,"No","-",0,759,0,0,573,200,0
+"AA31B","Headache, Migraine or Cerebrospinal Fluid Leak, without CC",5,5,"No","-",0,394,0,0,381,200,0
+"AA32Z","Neuropsychology Tests with length of stay 2 days or less",5,5,"No","-",0,388,0,0,348,200,0
+"AA33C","Conventional EEG, EMG or Nerve Conduction Studies with length of stay 2 days or less, 19 years and over",5,5,"No","-",195,210,0,0,1101,200,0
+"AA33D","Conventional EEG, EMG or Nerve Conduction Studies with length of stay 2 days or less, 18 years and under",5,5,"No","-",0,750,0,0,1208,270,0
+"AA34E","Other Neurophysiological Operations, 19 years and over",5,36,"No","-",0,817,0,0,3515,188,0
+"AA34F","Other Neurophysiological Operations, 18 years and under",5,19,"No","-",0,1336,0,0,2878,294,0
+"AB02Z","Complex Major Pain Procedures",5,45,"No","-",0,679,0,0,3813,200,0
+"AB03Z","Complex Pain Procedures",5,45,"No","-",0,490,0,0,3813,200,0
+"AB04Z","Major Pain Procedures",5,21,"No","-",0,580,0,0,2238,200,0
+"AB05Z","Intermediate Pain Procedures",5,24,"No","-",171,460,0,0,2422,200,0
+"AB06Z","Minor Pain Procedures",5,21,"No","-",171,182,0,0,2090,200,0
+"AB07Z","Insertion of Neurostimulator or Intrathecal Drug Delivery Device",5,37,"No","-",0,3611,0,0,4105,200,0
+"AB08Z","Pain Radiofrequency Treatments",5,27,"No","-",0,626,0,0,2741,200,0
+"AB09Z","Other Specified Pain Procedures",5,23,"No","-",167,529,0,0,2125,200,0
+"AB10Z","Unspecified Pain Procedures",5,44,"No","-",0,357,0,0,1958,200,0
+"AB11Z","Cognitive Behavioural Therapy",5,5,"No","-",0,67,0,0,67,200,0
+"BZ01Z","Enhanced Cataract Surgery",5,12,"No","-",0,982,0,0,1944,242,0
+"BZ02Z","Phacoemulsification Cataract Extraction and Lens Implant",5,35,"No","-",0,731,0,0,2649,242,0
+"BZ03Z","Non-Phacoemulsification Cataract Surgery",5,5,"No","-",0,927,0,0,1248,242,0
+"BZ04Z","Lens Capsulotomy",5,5,"No","-",156,156,0,0,443,242,0
+"BZ05Z","Major Oculoplastics Procedures",5,50,"No","-",0,1239,0,0,8049,242,0
+"BZ06A","Intermediate Oculoplastics Procedures, 19 years and over",5,5,"No","-",0,860,0,0,1204,242,0
+"BZ06B","Intermediate Oculoplastics Procedures, 18 years and under",5,8,"No","-",0,972,0,0,1411,387,0
+"BZ07A","Minor Oculoplastics Procedures, 19 years and over",5,5,"No","-",110,596,0,0,871,242,0
+"BZ07B","Minor Oculoplastics Procedures, 18 years and under",5,5,"No","-",136,750,0,0,934,387,0
+"BZ08A","Major Orbits or Lacrimal Procedures, 19 years and over",5,14,"No","-",0,2003,0,0,3096,242,0
+"BZ08B","Major Orbits or Lacrimal Procedures, 18 years and under",5,10,"No","-",0,1870,0,0,3169,387,0
+"BZ09A","Intermediate Orbits or Lacrimal Procedures, 19 years and over",5,16,"No","-",0,1380,0,0,2752,242,0
+"BZ09B","Intermediate Orbits or Lacrimal Procedures, 18 years and under",5,5,"No","-",0,1440,0,0,2310,387,0
+"BZ10A","Minor Orbits or Lacrimal Procedures, 19 years and over",5,5,"No","-",115,596,0,0,1177,242,0
+"BZ10B","Minor Orbits or Lacrimal Procedures, 18 years and under",5,8,"No","-",116,768,0,0,1206,387,0
+"BZ11Z","Major Cornea or Sclera Procedures",5,20,"No","-",0,1985,0,0,3408,242,0
+"BZ12Z","Intermediate Cornea or Sclera Procedures",5,14,"No","-",0,1502,0,0,2457,242,0
+"BZ13Z","Minor Cornea or Sclera Procedures",5,13,"No","-",138,841,0,0,2077,242,0
+"BZ14A","Major Ocular Motility Procedures, 19 years and over",5,5,"No","-",0,1228,0,0,849,242,0
+"BZ14B","Major Ocular Motility Procedures, 18 years and under",5,5,"No","-",0,1082,0,0,2327,387,0
+"BZ15A","Intermediate Ocular Motility Procedures, 19 years and over",5,11,"No","-",0,1100,0,0,1272,242,0
+"BZ15B","Intermediate Ocular Motility Procedures, 18 years and under",5,5,"No","-",0,1126,0,0,1061,387,0
+"BZ16A","Minor Ocular Motility Procedures, 19 years and over",5,5,"No","-",0,1060,0,0,905,242,0
+"BZ16B","Minor Ocular Motility Procedures, 18 years and under",5,5,"No","-",0,1029,0,0,864,387,0
+"BZ17Z","Major Glaucoma Procedures",5,8,"No","-",0,1574,0,0,1754,242,0
+"BZ18Z","Intermediate Glaucoma Procedures",5,8,"No","-",115,961,0,0,1507,242,0
+"BZ19Z","Minor Glaucoma Procedures",5,5,"No","-",115,455,0,0,1001,242,0
+"BZ20Z","Complex Vitreous Retinal Procedures",5,5,"No","-",0,1791,0,0,2215,242,0
+"BZ21Z","Major Vitreous Retinal Procedures",5,5,"No","-",0,1408,0,0,1565,242,0
+"BZ22Z","Intermediate Vitreous Retinal Procedures",5,5,"No","-",142,1164,0,0,1919,242,0
+"BZ23Z","Minor Vitreous Retinal Procedures",5,5,"No","-",109,353,0,0,810,242,0
+"BZ24A","Non-Surgical Ophthalmology with length of stay 2 days or more",12,17,"No","-",0,2690,0,0,2060,242,0
+"BZ24C","Non-Surgical Ophthalmology with length of stay 1 day or less",5,5,"Yes","100%",0,315,0,0,399,242,399
+"CZ01S","Minor Mouth or Throat Procedures, 18 years and under with CC",5,8,"No","-",0,793,0,0,2516,330,0
+"CZ01T","Minor Mouth or Throat Procedures, 18 years and under without CC",5,5,"No","-",104,630,0,0,760,330,0
+"CZ01V","Minor Mouth or Throat Procedures, 19 years and over with CC",5,11,"No","-",0,631,0,0,1565,221,0
+"CZ01Y","Minor Mouth or Throat Procedures, 19 years and over without CC",5,5,"No","-",132,137,0,0,661,221,0
+"CZ02S","Intermediate Mouth or Throat Procedures, 18 years and under with CC",5,20,"No","-",0,1307,0,0,3028,330,0
+"CZ02T","Intermediate Mouth or Throat Procedures, 18 years and under without CC",5,5,"No","-",104,977,0,0,1167,330,0
+"CZ02W","Intermediate Mouth or Throat Procedures, 19 years and over with Major CC",5,47,"No","-",0,1431,0,0,4745,221,0
+"CZ02X","Intermediate Mouth or Throat Procedures, 19 years and over with Intermediate CC",5,9,"No","-",0,969,0,0,1641,221,0
+"CZ02Y","Intermediate Mouth or Throat Procedures, 19 years and over without CC",5,5,"No","-",106,837,0,0,1056,221,0
+"CZ03U","Major Mouth or Throat Procedures, 18 years and under",5,12,"No","-",0,2615,0,0,2790,330,0
+"CZ03V","Major Mouth or Throat Procedures, 19 years and over with CC",5,31,"No","-",0,2470,0,0,4777,221,0
+"CZ03Y","Major Mouth or Throat Procedures, 19 years and over without CC",5,10,"No","-",0,1892,0,0,2268,221,0
+"CZ04O","Complex Major Mouth or Throat Procedures, with Major CC",67,110,"No","-",0,17730,0,0,20659,221,0
+"CZ04P","Complex Major Mouth or Throat Procedures, with Intermediate CC",42,86,"No","-",0,10100,0,0,15986,221,0
+"CZ04Q","Complex Major Mouth or Throat Procedures, without CC",35,60,"No","-",0,6594,0,0,7267,221,0
+"CZ05S","Tonsillectomy, 18 years and under with CC",5,6,"No","-",0,1274,0,0,1923,330,0
+"CZ05T","Tonsillectomy, 18 years and under without CC",5,5,"No","-",0,1083,0,0,1013,330,0
+"CZ05V","Tonsillectomy, 19 years and over with CC",5,5,"No","-",0,1163,0,0,926,221,0
+"CZ05Y","Tonsillectomy, 19 years and over without CC",5,5,"No","-",0,1079,0,0,786,221,0
+"CZ07O","Exteriorisation of Trachea with Major CC",104,99,"No","-",0,8662,0,0,7770,221,0
+"CZ07P","Exteriorisation of Trachea with Intermediate CC",21,60,"No","-",0,3184,0,0,4702,221,0
+"CZ07Q","Exteriorisation of Trachea without CC",11,35,"No","-",0,2863,0,0,3178,221,0
+"CZ08S","Minor Ear Procedures, 18 years and under with CC",5,11,"No","-",0,829,0,0,1620,330,0
+"CZ08T","Minor Ear Procedures, 18 years and under without CC",5,5,"No","-",109,699,0,0,831,330,0
+"CZ08V","Minor Ear Procedures, 19 years and over with CC",5,16,"No","-",0,668,0,0,1717,221,0
+"CZ08Y","Minor Ear Procedures, 19 years and over without CC",5,5,"No","-",118,658,0,0,686,221,0
+"CZ09U","Intermediate Ear Procedures, 18 years and under",5,8,"No","-",0,1459,0,0,985,330,0
+"CZ09V","Intermediate Ear Procedures, 19 years and over with CC",5,9,"No","-",0,1028,0,0,1438,221,0
+"CZ09Y","Intermediate Ear Procedures, 19 years and over without CC",5,9,"No","-",0,1028,0,0,1438,221,0
+"CZ10U","Major Ear Procedures, 18 years and under",5,13,"No","-",0,0,1925,1620,3794,330,0
+"CZ10V","Major Ear Procedures, 19 years and over with CC",5,39,"No","-",0,0,1968,1663,5542,221,0
+"CZ10Y","Major Ear Procedures, 19 years and over without CC",5,15,"No","-",0,0,1944,1638,2459,221,0
+"CZ11Z","Complex Major Ear Procedures",5,25,"No","-",0,2678,0,0,3520,221,0
+"CZ12U","Minor Nose Procedures, 18 years and under",5,5,"No","-",105,651,0,0,736,330,0
+"CZ12V","Minor Nose Procedures, 19 years and over with CC",5,6,"No","-",0,688,0,0,972,221,0
+"CZ12Y","Minor Nose Procedures, 19 years and over without CC",5,5,"No","-",110,587,0,0,730,221,0
+"CZ13U","Intermediate Nose Procedures, 18 years and under",5,8,"No","-",0,1140,0,0,1395,330,0
+"CZ13V","Intermediate Nose Procedures, 19 years and over with CC",5,6,"No","-",0,1186,0,0,1093,221,0
+"CZ13Y","Intermediate Nose Procedures, 19 years and over without CC",5,5,"No","-",113,1135,0,0,910,221,0
+"CZ14U","Major Nose Procedures, 18 years and under",5,17,"No","-",0,1707,0,0,3827,330,0
+"CZ14V","Major Nose Procedures, 19 years and over with CC",5,11,"No","-",0,1490,0,0,1983,221,0
+"CZ14Y","Major Nose Procedures, 19 years and over without CC",5,9,"No","-",0,1424,0,0,1617,221,0
+"CZ15N","Complex Major Nose Procedures with CC",5,16,"No","-",0,1715,0,0,3742,221,0
+"CZ15Q","Complex Major Nose Procedures without CC",5,12,"No","-",0,1519,0,0,3020,221,0
+"CZ16N","Minor Maxillo-facial Procedures with CC",5,5,"No","-",0,1280,0,0,1596,221,0
+"CZ16Q","Minor Maxillo-facial Procedures without CC",5,5,"No","-",0,1114,0,0,1476,221,0
+"CZ17U","Intermediate Maxillo-facial Procedures, 18 years and under",5,5,"No","-",0,1426,0,0,2201,330,0
+"CZ17V","Intermediate Maxillo-facial Procedures, 19 years and over with CC",5,9,"No","-",0,2151,0,0,2620,221,0
+"CZ17Y","Intermediate Maxillo-facial Procedures, 19 years and over without CC",5,5,"No","-",0,1367,0,0,2046,221,0
+"CZ18R","Major Maxillo-facial Procedures, 19 years and over",5,16,"No","-",0,3583,0,0,3534,221,0
+"CZ18U","Major Maxillo-facial Procedures, 18 years and under",5,10,"No","-",0,3334,0,0,3030,330,0
+"CZ19Z","Complex Major Maxillo-facial Procedures",21,35,"No","-",0,6226,0,0,6091,221,0
+"CZ20Z","Complex Major Head or Neck Procedures with Reconstruction",46,46,"No","-",0,16811,0,0,16811,221,0
+"CZ21V","Minor Head, Neck and Ear Disorders, with CC",5,5,"Yes","65%",0,933,0,0,694,221,452
+"CZ21Y","Minor Head, Neck and Ear Disorders, without CC",5,5,"Yes","100%",0,613,0,0,429,221,429
+"CZ22W","Intermediate Head, Neck and Ear Disorders, with Major CC",17,15,"Yes","30%",0,1847,0,0,2025,221,607
+"CZ22X","Intermediate Head, Neck and Ear Disorders, with Intermediate CC",8,5,"Yes","65%",0,1198,0,0,890,221,579
+"CZ22Y","Intermediate Head, Neck and Ear Disorders, without CC",5,5,"Yes","100%",0,702,0,0,605,221,605
+"CZ23W","Major Head, Neck and Ear Disorders, with Major CC",29,21,"Yes","30%",0,2690,0,0,2450,221,735
+"CZ23X","Major Head, Neck and Ear Disorders, with Intermediate CC",10,8,"Yes","40%",0,1204,0,0,1272,221,509
+"CZ23Y","Major Head, Neck and Ear Disorders, without CC",8,5,"Yes","100%",0,916,0,0,568,221,568
+"CZ24O","Complex Major Head, Neck and Ear Disorders, with Major CC",42,44,"Yes","30%",0,4888,0,0,4690,221,1407
+"CZ24P","Complex Major Head, Neck and Ear Disorders, with Intermediate CC",11,20,"Yes","30%",0,1572,0,0,2733,221,820
+"CZ24Q","Complex Major Head, Neck and Ear Disorders, without CC",13,14,"Yes","30%",0,1430,0,0,2059,221,618
+"CZ27Z","Fixture for Bone Anchored Hearing Aids",5,5,"No","-",0,2336,0,0,2336,221,0
+"CZ30U","Minor Extraction of Tooth, 18 years and under",5,5,"No","-",0,430,0,0,802,330,0
+"CZ30Y","Minor Extraction of Tooth, 19 years and over",5,5,"No","-",190,197,0,0,772,221,0
+"CZ31U","Minor Dental Biopsy, 18 years and under",5,5,"No","-",0,502,0,0,712,330,0
+"CZ31Y","Minor Dental Biopsy, 19 years and over",5,5,"No","-",223,230,0,0,589,221,0
+"CZ32U","Dental Fitting or Insertion Procedures, 18 years and under",5,5,"No","-",156,888,0,0,888,330,0
+"CZ32Y","Dental Fitting or Insertion Procedures, 19 years and over",5,5,"No","-",156,766,0,0,766,221,0
+"CZ33U","Minor Dental Restoration Procedures, 18 years and under",5,5,"No","-",0,529,0,0,681,330,0
+"CZ33Y","Minor Dental Restoration Procedures, 19 years and over",5,5,"No","-",223,230,0,0,987,221,0
+"CZ34U","Minor Dental Procedures, 18 years and under",5,5,"No","-",156,542,0,0,925,330,0
+"CZ34Y","Minor Dental Procedures, 19 years and over",5,5,"No","-",116,120,0,0,1033,221,0
+"CZ35U","Adjustment of Dental Device, 18 years and under",5,5,"No","-",103,107,0,0,217,330,0
+"CZ35Y","Adjustment of Dental Device, 19 years and over",5,5,"No","-",105,108,0,0,1458,221,0
+"CZ36U","Dental Excision or Biopsy Procedures, 18 years and under",5,5,"No","-",0,641,0,0,831,330,0
+"CZ36Y","Dental Excision or Biopsy Procedures, 19 years and over",5,5,"No","-",155,530,0,0,683,221,0
+"CZ37U","Surgical Removal of Tooth, 18 years and under",5,5,"No","-",0,741,0,0,952,330,0
+"CZ37Y","Surgical Removal of Tooth, 19 years and over",5,5,"No","-",110,469,0,0,1030,221,0
+"CZ38U","Creation of Dental Impression, 18 years and under",5,5,"No","-",109,113,0,0,1221,330,0
+"CZ38Y","Creation of Dental Impression, 19 years and over",5,5,"No","-",124,129,0,0,2114,221,0
+"CZ39U","Intermediate Dental Procedures, 18 years and under",5,5,"No","-",156,843,0,0,941,330,0
+"CZ39Y","Intermediate Dental Procedures, 19 years and over",5,5,"No","-",156,762,0,0,885,221,0
+"CZ40U","Major Surgical Removal of Tooth, 18 years and under",5,5,"No","-",0,830,0,0,1147,330,0
+"CZ40Y","Major Surgical Removal of Tooth, 19 years and over",5,5,"No","-",115,557,0,0,1212,221,0
+"CZ41U","Major Dental Procedures, 18 years and under",5,5,"No","-",0,835,0,0,940,330,0
+"CZ41Y","Major Dental Procedures, 19 years and over",5,5,"No","-",129,628,0,0,1096,221,0
+"CZ42U","Extraction of Multiple Teeth, 18 years and under",5,5,"No","-",0,541,0,0,942,330,0
+"CZ42Y","Extraction of Multiple Teeth, 19 years and over",5,5,"No","-",112,629,0,0,1121,221,0
+"DZ02A","Complex Thoracic Procedures with Major CC",28,48,"No","-",0,7971,0,0,8885,187,0
+"DZ02B","Complex Thoracic Procedures with Intermediate CC",15,24,"No","-",0,6080,0,0,6284,187,0
+"DZ02C","Complex Thoracic Procedures without CC",13,18,"No","-",0,5118,0,0,5153,187,0
+"DZ03A","Major Thoracic Procedures with CC",10,45,"No","-",0,2509,0,0,6339,187,0
+"DZ03B","Major Thoracic Procedures without CC",5,14,"No","-",0,1800,0,0,2694,187,0
+"DZ04A","Intermediate Thoracic Procedures with CC",10,36,"No","-",0,2325,0,0,4917,187,0
+"DZ04B","Intermediate Thoracic Procedures without CC",5,20,"No","-",0,1432,0,0,3096,187,0
+"DZ06Z","Minor Thoracic Procedures",5,5,"No","-",0,536,0,0,526,187,0
+"DZ07A","Fibre Optic Bronchoscopy, 19 years and over",5,5,"No","-",0,496,0,0,326,187,0
+"DZ07B","Fibre Optic Bronchoscopy, 18 years and under",5,5,"No","-",0,1098,0,0,1812,327,0
+"DZ08Z","Rigid Bronchoscopy",5,5,"No","-",0,1146,0,0,1177,187,0
+"DZ09A","Pulmonary Embolus with Major CC",15,26,"Yes","30%",0,1554,0,0,2859,187,858
+"DZ09B","Pulmonary Embolus with Intermediate CC",8,17,"No","-",0,962,0,0,1481,187,0
+"DZ09C","Pulmonary Embolus without CC",5,11,"No","-",0,356,0,0,1481,187,0
+"DZ10A","Lung Abscess-Empyema with Major CC",45,43,"Yes","30%",0,5012,0,0,4940,187,1482
+"DZ10B","Lung Abscess-Empyema with Intermediate CC",21,30,"Yes","30%",0,2790,0,0,3644,187,1093
+"DZ10C","Lung Abscess-Empyema without CC",10,19,"Yes","30%",0,1640,0,0,3014,187,904
+"DZ11A","Lobar, Atypical or Viral Pneumonia, with Major CC",43,29,"Yes","30%",0,3934,0,0,3090,187,927
+"DZ11B","Lobar, Atypical or Viral Pneumonia, with Intermediate CC",25,20,"Yes","30%",0,2680,0,0,2150,187,645
+"DZ11C","Lobar, Atypical or Viral Pneumonia, without CC",14,9,"No","-",0,1976,0,0,895,187,0
+"DZ12A","Bronchiectasis with CC",28,28,"Yes","30%",0,2502,0,0,2811,187,843
+"DZ12B","Bronchiectasis without CC",5,15,"Yes","40%",0,527,0,0,1599,187,639
+"DZ14A","Pulmonary, Pleural or Other Tuberculosis, with CC",24,32,"Yes","30%",0,2519,0,0,3485,187,1046
+"DZ14B","Pulmonary, Pleural or Other Tuberculosis, without CC",5,20,"Yes","30%",0,637,0,0,2496,187,749
+"DZ15A","Asthma with Intubation, with Major CC",35,35,"Yes","30%",0,2996,0,0,2996,187,899
+"DZ15B","Asthma with Intubation, with Intermediate CC",22,22,"Yes","30%",0,2011,0,0,2011,187,604
+"DZ15C","Asthma with Intubation, without CC",11,11,"Yes","40%",0,984,0,0,984,187,393
+"DZ15D","Asthma without Intubation, with Major CC",20,15,"Yes","30%",0,2041,0,0,1852,187,555
+"DZ15E","Asthma without Intubation, with Intermediate CC",8,11,"No","-",0,1120,0,0,925,187,0
+"DZ15F","Asthma without Intubation, without CC",5,8,"No","-",0,390,0,0,588,187,0
+"DZ16A","Pleural Effusion with Major CC",16,32,"Yes","30%",0,2033,0,0,3246,187,974
+"DZ16B","Pleural Effusion with Intermediate CC",11,20,"Yes","30%",0,1970,0,0,1240,187,372
+"DZ16C","Pleural Effusion without CC",8,11,"Yes","40%",0,1452,0,0,620,187,248
+"DZ17A","Respiratory Neoplasms with Major CC",8,31,"Yes","30%",0,1109,0,0,3213,187,963
+"DZ17B","Respiratory Neoplasms with Intermediate CC",5,19,"Yes","30%",0,1063,0,0,2343,187,703
+"DZ17C","Respiratory Neoplasms without CC",5,10,"Yes","40%",0,633,0,0,1599,187,639
+"DZ18Z","Sleeping Disorders Affecting Breathing",5,26,"Yes","30%",0,561,0,0,2872,187,861
+"DZ19A","Other Respiratory Diagnoses with Major CC",8,15,"Yes","30%",0,1538,0,0,1837,187,551
+"DZ19B","Other Respiratory Diagnoses with Intermediate CC",5,8,"Yes","65%",0,1103,0,0,968,187,629
+"DZ19C","Other Respiratory Diagnoses without CC",5,5,"Yes","100%",0,817,0,0,452,187,452
+"DZ20Z","Pulmonary Oedema",27,19,"Yes","30%",0,1885,0,0,2243,187,673
+"DZ21A","Chronic Obstructive Pulmonary Disease or Bronchitis, with length of stay 1 day or less, discharged home",5,5,"Yes","100%",0,514,0,0,504,187,504
+"DZ21B","Chronic Obstructive Pulmonary Disease or Bronchitis, with Intubation, with Major CC",30,30,"Yes","30%",0,3184,0,0,3184,187,955
+"DZ21C","Chronic Obstructive Pulmonary Disease or Bronchitis, with Intubation, with Intermediate CC",21,21,"Yes","30%",0,2413,0,0,2413,187,724
+"DZ21D","Chronic Obstructive Pulmonary Disease or Bronchitis, with Intubation, without CC",26,26,"Yes","30%",0,1242,0,0,1555,187,467
+"DZ21E","Chronic Obstructive Pulmonary Disease or Bronchitis, with NIV, without Intubation, with Major CC",15,28,"Yes","30%",0,3416,0,0,3128,187,938
+"DZ21F","Chronic Obstructive Pulmonary Disease or Bronchitis, with NIV, without Intubation, with Intermediate CC",22,22,"Yes","30%",0,2632,0,0,2632,187,789
+"DZ21G","Chronic Obstructive Pulmonary Disease or Bronchitis, with NIV, without Intubation, without CC",6,18,"Yes","30%",0,1524,0,0,2047,187,614
+"DZ21H","Chronic Obstructive Pulmonary Disease or Bronchitis, without NIV, without Intubation, with Major CC",29,23,"Yes","30%",0,3687,0,0,2768,187,831
+"DZ21J","Chronic Obstructive Pulmonary Disease or Bronchitis, without NIV, without Intubation, with Intermediate CC",23,16,"Yes","30%",0,3254,0,0,2116,187,635
+"DZ21K","Chronic Obstructive Pulmonary Disease or Bronchitis, without NIV, without Intubation, without CC",16,12,"Yes","30%",0,2401,0,0,1565,187,470
+"DZ22A","Unspecified Acute Lower Respiratory Infection with Major CC",40,27,"Yes","30%",0,3340,0,0,2579,187,774
+"DZ22B","Unspecified Acute Lower Respiratory Infection with Intermediate CC",26,14,"Yes","30%",0,2790,0,0,1749,187,525
+"DZ22C","Unspecified Acute Lower Respiratory Infection without CC",5,5,"No","-",0,568,0,0,456,187,0
+"DZ23A","Bronchopneumonia with Major CC",47,31,"Yes","30%",0,4187,0,0,3119,187,936
+"DZ23B","Bronchopneumonia with Intermediate CC",39,20,"Yes","30%",0,2963,0,0,2189,187,657
+"DZ23C","Bronchopneumonia without CC",14,9,"Yes","40%",0,1615,0,0,1291,187,517
+"DZ24A","Inhalation Lung Injury or Foreign Body, with Major CC",42,42,"Yes","30%",0,3985,0,0,3985,187,1195
+"DZ24B","Inhalation Lung Injury or Foreign Body, with Intermediate CC",17,31,"Yes","30%",0,2827,0,0,2948,187,884
+"DZ24C","Inhalation Lung Injury or Foreign Body, without CC",14,11,"Yes","30%",0,1464,0,0,1816,187,544
+"DZ25A","Fibrosis or Pneumoconiosis, with CC",5,27,"Yes","30%",0,1281,0,0,2652,187,795
+"DZ25B","Fibrosis or Pneumoconiosis, without CC",5,12,"Yes","40%",0,938,0,0,1507,187,603
+"DZ26A","Pneumothorax or Intrathoracic Injuries, with CC",14,22,"Yes","30%",0,1950,0,0,2485,187,746
+"DZ26B","Pneumothorax or Intrathoracic Injuries, without CC",8,9,"Yes","40%",0,987,0,0,1416,187,566
+"DZ27A","Respiratory Failure with Intubation, with Major CC",38,38,"Yes","30%",0,3763,0,0,3763,187,1129
+"DZ27B","Respiratory Failure with Intubation, with Intermediate CC",18,18,"Yes","30%",0,2327,0,0,2327,187,698
+"DZ27C","Respiratory Failure with Intubation, without CC",26,26,"Yes","30%",0,724,0,0,724,187,217
+"DZ27D","Respiratory Failure without Intubation, with Major CC",5,34,"Yes","30%",0,893,0,0,3260,187,978
+"DZ27E","Respiratory Failure without Intubation, with Intermediate CC",5,22,"Yes","30%",0,667,0,0,2351,187,705
+"DZ27F","Respiratory Failure without Intubation, without CC",5,11,"Yes","40%",0,657,0,0,1556,187,622
+"DZ28Z","Pleurisy",5,5,"Yes","100%",0,454,0,0,454,187,454
+"DZ29A","Granulomatous, Allergic Alveolitis or Autoimmune Lung Disease, with CC",5,25,"Yes","30%",0,637,0,0,2955,187,886
+"DZ29B","Granulomatous, Allergic Alveolitis or Autoimmune Lung Disease, without CC",5,13,"Yes","40%",0,486,0,0,1555,187,622
+"DZ30Z","Chest Physiotherapy",5,5,"No","-",0,311,0,0,368,187,0
+"DZ31Z","Complex Lung Function Exercise Testing",5,5,"No","-",186,186,0,0,186,187,0
+"DZ32Z","Simple Lung Function Exercise Testing",5,5,"No","-",165,165,0,0,165,187,0
+"DZ37A","Non-Invasive Ventilation Support Assessment, 19 years and over",5,13,"No","-",217,227,0,0,663,187,0
+"DZ37B","Non-Invasive Ventilation Support Assessment, 18 years and under",5,5,"No","-",0,1144,0,0,1144,327,0
+"DZ42Z","TB Nurse Support",5,5,"No","-",140,147,0,0,301,187,0
+"DZ50Z","Respiratory Sleep Study",5,5,"No","-",467,0,467,519,519,187,0
+"DZ51Z","Complex Tuberculosis",126,103,"Yes","30%",0,15889,0,0,14157,187,4247
+"DZ52Z","Full Pulmonary Function Testing",5,5,"No","-",172,172,0,0,172,187,0
+"DZ54Z","Complex Bronchoscopy",11,11,"Yes","30%",0,2187,0,0,3085,178,926
+"EA03Z","Pace 1: Single Chamber or Implantable Diagnostic Device",5,26,"No","-",0,2135,0,0,3701,204,0
+"EA05Z","Pace 2: Dual Chamber",5,26,"No","-",0,3031,0,0,3972,204,0
+"EA07Z","Pace 3: Biventricular and all Congenital Pacemaker Procedures; Resynchronisation Therapy",5,37,"No","-",0,7580,0,0,11830,264,0
+"EA09Z","Percutaneous Interventions: Percutaneous Transluminal ASD, VSD or PFO Closure and Valve Insertion",5,42,"No","-",0,4633,0,0,8509,204,0
+"EA10Z","Percutaneous Interventions: Balloon Valve Intermediate Interventions and Arterial Duct Closure",9,55,"No","-",0,3735,0,0,7275,204,0
+"EA11Z","Percutaneous Interventions: Other including Septostomy, Embolisations, Non-Coronary Stents and Energy Moderated Perforation",5,26,"No","-",0,1251,0,0,3264,204,0
+"EA12Z","Implantation of Cardioverter; Defibrillator only",5,37,"No","-",0,4700,0,0,6260,204,0
+"EA14Z","Coronary Artery Bypass Graft (First Time)",14,36,"No","-",0,6860,0,0,8211,204,0
+"EA16Z","Coronary Artery Bypass Graft (First Time) with Percutaneous Coronary Intervention, Pacing, EP or RFA",16,36,"No","-",0,8277,0,0,9668,204,0
+"EA17Z","Single Cardiac Valve Procedures",17,55,"No","-",0,8774,0,0,10821,204,0
+"EA19Z","Single Cardiac Valve Procedures with Percutaneous Coronary Intervention, Pacing, EP or RFA",20,53,"No","-",0,9979,0,0,12268,204,0
+"EA20Z","Other Complex Cardiac Surgery and Re-do's",25,54,"No","-",0,9217,0,0,11115,204,0
+"EA22Z","Other Complex Cardiac Surgery with Percutaneous Coronary Intervention, Pacing, EP or RFA",25,52,"No","-",0,13969,0,0,14734,204,0
+"EA23Z","Major Complex Congenital Surgery",35,77,"No","-",0,12158,0,0,16056,264,0
+"EA24Z","Complex Congenital Surgery",19,44,"No","-",0,8136,0,0,12987,264,0
+"EA25Z","Intermediate Congenital Surgery",19,44,"No","-",0,8136,0,0,11454,264,0
+"EA26Z","Standard Congenital Surgery",14,14,"No","-",0,4255,0,0,4255,264,0
+"EA29Z","Percutaneous Complex Ablation, including for Atrial Fibrillation or Ventricular Tachycardia",5,28,"No","-",0,3264,0,0,6224,204,0
+"EA31Z","Percutaneous Coronary Intervention, 0 to 2 Stents",5,10,"No","-",0,2554,0,0,3456,204,0
+"EA35Z","Other Percutaneous Interventions",5,17,"No","-",0,1948,0,0,3159,204,0
+"EA36A","Catheter, 19 years and over",5,20,"No","-",0,1173,0,0,2836,204,0
+"EA36B","Catheter, 18 years and under",5,20,"No","-",0,3132,0,0,6052,264,0
+"EA39Z","Pacemaker Procedure without Generator Implant, including Re-siting and Removal of Cardiac Pacemaker System",5,31,"No","-",0,2357,0,0,4437,204,0
+"EA40Z","Other Non-Complex Cardiac Surgery",19,34,"No","-",0,4004,0,0,7163,204,0
+"EA44Z","Minor Cardiac Procedures",5,27,"No","-",134,1078,0,0,3129,204,0
+"EA45Z","Complex Echocardiogram, including Congenital, Transoesophageal and Fetal Echocardiography",5,5,"No","-",277,277,0,0,272,264,0
+"EA47Z","Electrocardiogram Monitoring and Stress Testing",5,5,"No","-",163,163,0,0,527,204,0
+"EA48Z","Single or Dual Chamber, Pacemaker or Implantable Diagnostic Device, with Percutaneous Coronary Intervention, EP or RFA",5,26,"No","-",0,2666,0,0,5458,204,0
+"EA49Z","Percutaneous Coronary Interventions with 3 or more Stents, Rotablation, IVUS or Pressure Wire",5,12,"No","-",0,3039,0,0,4135,204,0
+"EA51Z","Coronary Artery Bypass Graft, with Valve Replacement or Repair",27,52,"No","-",0,9249,0,0,11375,204,0
+"EA52Z","Repair or Replacement of more than one Heart Valve",33,71,"No","-",0,10581,0,0,14009,204,0
+"EA53Z","Transcatheter Aortic Valve Implantation (TAVI)",17,55,"No","-",0,8102,0,0,11122,204,0
+"EA54Z","Percutaneous Standard Ablation",5,20,"No","-",0,1439,0,0,4344,204,0
+"EA55Z","Percutaneous Diagnostic Electrophysiology Studies",5,17,"No","-",0,851,0,0,3486,204,0
+"EA56Z","Implantation of Cardiac Resynchronization Therapy Defibrillator (CRT-D)",5,35,"No","-",0,6201,0,0,13962,204,0
+"EB01Z","Non-Interventional Acquired Cardiac Conditions",5,5,"No","-",0,933,0,0,544,204,0
+"EB02Z","Endocarditis",35,75,"Yes","30%",0,2555,0,0,6143,204,1843
+"EB03H","Heart Failure or Shock, with CC",43,40,"Yes","30%",0,4065,0,0,3270,204,1038
+"EB03I","Heart Failure or Shock, without CC",18,21,"Yes","30%",0,1573,0,0,2039,204,647
+"EB04H","Hypertension with CC",131,32,"Yes","30%",0,1003,0,0,2985,204,896
+"EB04I","Hypertension without CC",5,16,"Yes","30%",0,550,0,0,1863,204,559
+"EB05Z","Cardiac Arrest",28,13,"Yes","30%",0,2092,0,0,1817,204,545
+"EB06Z","Cardiac Valve Disorders",10,30,"Yes","30%",0,1564,0,0,2765,204,830
+"EB07H","Arrhythmia or Conduction Disorders, with CC",5,21,"No","-",0,1017,0,0,1717,204,0
+"EB07I","Arrhythmia or Conduction Disorders, without CC",5,5,"No","-",0,672,0,0,625,204,0
+"EB08H","Syncope or Collapse, with CC",23,21,"Yes","30%",0,1281,0,0,1986,204,596
+"EB08I","Syncope or Collapse, without CC",5,5,"No","-",0,507,0,0,529,204,0
+"EB09Z","Non-Interventional Congenital Cardiac Conditions",5,16,"Yes","30%",0,953,0,0,2530,264,759
+"EB10Z","Actual or Suspected Myocardial Infarction",24,18,"Yes","30%",0,3722,0,0,3180,204,954
+"FZ12D","Major General Abdominal Procedures, 19 years and over with Major CC",24,47,"No","-",0,4405,0,0,6068,209,0
+"FZ12E","Major General Abdominal Procedures, 19 years and over with Intermediate CC",10,27,"No","-",0,2372,0,0,3740,209,0
+"FZ12F","Major General Abdominal Procedures, 19 years and over without CC",5,17,"No","-",0,1884,0,0,3061,209,0
+"FZ12H","Major General Abdominal Procedures, between 2 and 18 years with CC",17,25,"No","-",0,5133,0,0,7072,268,0
+"FZ12I","Major General Abdominal Procedures, between 2 and 18 years without CC",8,16,"No","-",0,2662,0,0,3413,268,0
+"FZ12J","Major General Abdominal Procedures, 1 year and under with Major CC",40,73,"No","-",0,8896,0,0,12257,268,0
+"FZ12K","Major General Abdominal Procedures, 1 year and under without Major CC",10,56,"No","-",0,3122,0,0,7545,268,0
+"FZ13C","Minor Therapeutic or Diagnostic General Abdominal Procedures, 19 years and over",5,5,"No","-",0,858,0,0,762,209,0
+"FZ13D","Minor Therapeutic or Diagnostic General Abdominal Procedures, 18 years and under",5,5,"No","-",0,735,0,0,939,268,0
+"FZ17A","Abdominal Hernia Procedures, 19 years and over with Major CC",19,33,"No","-",0,3691,0,0,5244,209,0
+"FZ17B","Abdominal Hernia Procedures, 19 years and over with Intermediate CC",9,15,"No","-",0,2437,0,0,2938,209,0
+"FZ17C","Abdominal Hernia Procedures, 19 years and over without CC",5,10,"No","-",0,1813,0,0,2542,209,0
+"FZ17D","Abdominal Hernia Procedures, 18 years and under",5,6,"No","-",0,1132,0,0,1968,268,0
+"FZ18A","Inguinal, Umbilical or Femoral Hernia Procedures, 19 years and over with Major CC",5,31,"No","-",0,1734,0,0,3974,209,0
+"FZ18B","Inguinal, Umbilical or Femoral Hernia Procedures, 19 years and over with Intermediate CC",5,9,"No","-",0,0,1254,948,2272,209,0
+"FZ18C","Inguinal, Umbilical or Femoral Hernia Procedures, 19 years and over without CC",5,6,"No","-",0,0,1233,927,2009,209,0
+"FZ18E","Inguinal, Umbilical or Femoral Hernia Procedures, between 2 and 18 years",5,5,"No","-",0,1112,0,0,1884,268,0
+"FZ18F","Inguinal, Umbilical or Femoral Hernia Procedures, 1 year and under",5,6,"No","-",0,1515,0,0,2263,268,0
+"FZ19A","Herniotomy Procedures, 2 years and over",5,5,"No","-",0,1059,0,0,1694,209,0
+"FZ19B","Herniotomy Procedures, 1 year and under",5,6,"No","-",0,1409,0,0,2499,268,0
+"FZ20A","Appendicectomy Procedures, 19 years and over with Major CC",5,18,"No","-",0,2478,0,0,3494,209,0
+"FZ20B","Appendicectomy Procedures, 19 years and over without Major CC",5,7,"No","-",0,1950,0,0,2358,209,0
+"FZ20D","Appendicectomy Procedures, 18 years and under with Major CC",7,15,"No","-",0,4034,0,0,3641,268,0
+"FZ20E","Appendicectomy Procedures, 18 years and under without Major CC",5,5,"No","-",0,2403,0,0,2379,268,0
+"FZ21A","Major Anal Procedures, 19 years and over",5,6,"No","-",0,1076,0,0,1710,209,0
+"FZ21B","Major Anal Procedures, 18 years and under",8,9,"No","-",0,2316,0,0,2288,268,0
+"FZ22A","Intermediate Anal Procedures, 19 years and over",5,5,"No","-",317,927,0,0,1120,209,0
+"FZ22B","Intermediate Anal Procedures, 18 years and under",5,5,"No","-",0,1022,0,0,1111,268,0
+"FZ23A","Minor Anal Procedures, 19 years and over",5,5,"No","-",0,605,0,0,642,209,0
+"FZ23B","Minor Anal Procedures, 18 years and under",5,5,"No","-",0,871,0,0,852,268,0
+"FZ24A","Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures, 19 years and over with Major CC",5,41,"No","-",0,701,0,0,2991,209,0
+"FZ24B","Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures, 19 years and over with Intermediate CC",5,11,"No","-",0,553,0,0,1454,209,0
+"FZ24C","Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures, 19 years and over without CC",5,5,"No","-",0,582,0,0,970,209,0
+"FZ24E","Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures, between 2 and 18 years",5,5,"No","-",0,1366,0,0,1177,268,0
+"FZ24F","Major Therapeutic Endoscopic Upper or Lower GI Tract Procedures, 1 year and under",5,5,"No","-",0,1412,0,0,1483,268,0
+"FZ27A","Intermediate Therapeutic General Abdominal Procedures, 19 years and over with Major CC",5,33,"No","-",0,2000,0,0,4378,209,0
+"FZ27B","Intermediate Therapeutic General Abdominal Procedures, 19 years and over with Intermediate CC",5,22,"No","-",0,1705,0,0,3113,209,0
+"FZ27C","Intermediate Therapeutic General Abdominal Procedures, 19 years and over without CC",5,10,"No","-",0,1356,0,0,2408,209,0
+"FZ27D","Intermediate Therapeutic General Abdominal Procedures, 18 years and under",5,11,"No","-",0,1313,0,0,2532,268,0
+"FZ31D","Disorders of the Oesophagus, with length of stay 2 days or more, with Major CC",34,40,"No","-",0,3832,0,0,3834,209,0
+"FZ31E","Disorders of the Oesophagus, with length of stay 2 days or more, without Major CC",12,16,"No","-",0,2052,0,0,2077,209,0
+"FZ31F","Disorders of the Oesophagus, with length of stay 1 day or less",5,5,"Yes","100%",0,386,0,0,395,209,395
+"FZ33C","Small Intestinal Disorders, excluding Inflammatory Bowel Disease, with length of stay 2 days or more, with CC",20,32,"No","-",0,3138,0,0,3562,209,0
+"FZ33D","Small Intestinal Disorders, excluding Inflammatory Bowel Disease, with length of stay 2 days or more, without CC",15,16,"No","-",0,2340,0,0,2045,209,0
+"FZ33E","Small Intestinal Disorders, excluding Inflammatory Bowel Disease, with length of stay 1 day or less",5,5,"Yes","100%",0,312,0,0,539,209,539
+"FZ36D","Intestinal Infectious Disorders, with length of stay 2 days or more, with Major CC",39,39,"No","-",0,3686,0,0,3686,209,0
+"FZ36E","Intestinal Infectious Disorders, with length of stay 2 days or more, without Major CC",26,13,"No","-",0,3017,0,0,1765,209,0
+"FZ36F","Intestinal Infectious Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,342,0,0,436,209,436
+"FZ37F","Inflammatory Bowel Disease, with length of stay 1 day or less",5,5,"Yes","100%",0,315,0,0,426,209,426
+"FZ37G","Inflammatory Bowel Disease, with length of stay 2 days or more, with Interventions, with Major CC",22,45,"No","-",0,3725,0,0,4639,209,0
+"FZ37H","Inflammatory Bowel Disease, with length of stay 2 days or more, without Interventions, with Major CC",18,21,"No","-",0,2538,0,0,2174,209,0
+"FZ37I","Inflammatory Bowel Disease, with length of stay 2 days or more, with Interventions, without Major CC",15,22,"No","-",0,2361,0,0,2801,209,0
+"FZ37J","Inflammatory Bowel Disease, with length of stay 2 days or more, without Interventions, without Major CC",13,12,"No","-",0,1803,0,0,1518,209,0
+"FZ38D","Gastrointestinal Bleed, with length of stay 2 days or more, with Major CC",27,27,"No","-",0,2983,0,0,2983,209,0
+"FZ38E","Gastrointestinal Bleed, with length of stay 2 days or more, without Major CC",12,12,"No","-",0,1719,0,0,1719,209,0
+"FZ38F","Gastrointestinal Bleed, with length of stay 1 day or less",5,5,"Yes","100%",0,328,0,0,438,209,438
+"FZ39D","Hernia Disorders, with length of stay 2 days or more, with Major CC",31,32,"No","-",0,2978,0,0,3254,209,0
+"FZ39E","Hernia Disorders, with length of stay 2 days or more, without Major CC",12,12,"No","-",0,2074,0,0,1647,209,0
+"FZ39F","Hernia Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,559,0,0,425,209,425
+"FZ40A","Appendix Disorders, with length of stay 2 days or more",7,13,"No","-",0,1741,0,0,1839,209,0
+"FZ40B","Appendix Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,373,0,0,603,209,603
+"FZ41D","Anal Disorders, with length of stay 2 days or more, with Major CC",22,28,"No","-",0,3101,0,0,2880,209,0
+"FZ41E","Anal Disorders, with length of stay 2 days or more, without Major CC",10,10,"No","-",0,1869,0,0,1565,209,0
+"FZ41F","Anal Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,349,0,0,389,209,389
+"FZ42A","Wireless Capsule Endoscopy, 19 years and over",5,5,"No","-",914,914,0,0,914,209,0
+"FZ42B","Wireless Capsule Endoscopy, 18 years and under",5,5,"No","-",914,914,0,0,914,268,0
+"FZ43A","Non-Malignant Stomach or Duodenum Disorders, with length of stay 2 days or more, with Major CC",26,28,"No","-",0,3544,0,0,2918,209,0
+"FZ43B","Non-Malignant Stomach or Duodenum Disorders, with length of stay 2 days or more, without Major CC",12,12,"No","-",0,2084,0,0,1734,209,0
+"FZ43C","Non-Malignant Stomach or Duodenum Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,368,0,0,393,209,393
+"FZ44A","Malignant Stomach or Duodenum Disorders, with length of stay 2 days or more, with Major CC",26,35,"No","-",0,3313,0,0,3638,209,0
+"FZ44B","Malignant Stomach or Duodenum Disorders, with length of stay 2 days or more, without Major CC",10,18,"No","-",0,1883,0,0,2486,209,0
+"FZ44C","Malignant Stomach or Duodenum Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,439,0,0,527,209,527
+"FZ45A","Non-Malignant Large Intestinal Disorders, with length of stay 2 days or more, with Major CC",17,28,"No","-",0,2835,0,0,2851,209,0
+"FZ45B","Non-Malignant Large Intestinal Disorders, with length of stay 2 days or more, without Major CC",7,12,"No","-",0,2048,0,0,1634,209,0
+"FZ45C","Non-Malignant Large Intestinal Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,383,0,0,431,209,431
+"FZ46A","Malignant Large Intestinal Disorders, with length of stay 2 days or more, with Major CC",27,38,"No","-",0,3135,0,0,3875,209,0
+"FZ46B","Malignant Large Intestinal Disorders, with length of stay 2 days or more, without Major CC",7,21,"No","-",0,1617,0,0,2527,209,0
+"FZ46C","Malignant Large Intestinal Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,345,0,0,554,209,554
+"FZ47A","Non-Malignant General Abdominal Disorders, with length of stay 2 days or more, with Major CC",23,26,"No","-",0,3256,0,0,2788,209,0
+"FZ47B","Non-Malignant General Abdominal Disorders, with length of stay 2 days or more, without Major CC",10,10,"No","-",0,1864,0,0,687,209,0
+"FZ47C","Non-Malignant General Abdominal Disorders, with length of stay 1 day or less",5,5,"No","-",0,398,0,0,687,209,0
+"FZ48A","Malignant General Abdominal Disorders, with length of stay 2 days or more, with Major CC",16,32,"No","-",0,2410,0,0,3463,209,0
+"FZ48B","Malignant General Abdominal Disorders, with length of stay 2 days or more, without Major CC",7,17,"No","-",0,1606,0,0,2060,209,0
+"FZ48C","Malignant General Abdominal Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,366,0,0,477,209,477
+"FZ49A","Nutritional Disorders, with length of stay 2 days or more, with Major CC",47,49,"No","-",0,3809,0,0,3991,209,0
+"FZ49B","Nutritional Disorders, with length of stay 2 days or more, without Major CC",20,27,"No","-",0,2440,0,0,2642,209,0
+"FZ49C","Nutritional Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,319,0,0,455,209,455
+"FZ50Z","Intermediate Large Intestine Procedures, 19 years and over",5,5,"No","-",399,399,0,0,703,209,0
+"FZ51Z","Diagnostic Colonoscopy, 19 years and over",5,5,"No","-",441,441,0,0,684,209,0
+"FZ52Z","Diagnostic Colonoscopy with Biopsy, 19 years and over",5,5,"No","-",474,474,0,0,782,209,0
+"FZ53Z","Therapeutic Colonoscopy, 19 years and over",5,5,"No","-",0,478,0,0,818,209,0
+"FZ54Z","Diagnostic Flexible Sigmoidoscopy, 19 years and over",5,5,"No","-",344,344,0,0,579,209,0
+"FZ55Z","Diagnostic Flexible Sigmoidoscopy with Biopsy, 19 years and over",5,5,"No","-",391,391,0,0,609,209,0
+"FZ56Z","Therapeutic Flexible Sigmoidoscopy, 19 years and over",5,5,"No","-",0,431,0,0,683,209,0
+"FZ57Z","Diagnostic or Therapeutic, Rigid Sigmoidoscopy, 19 years and over",5,5,"No","-",168,168,0,0,564,209,0
+"FZ58A","Endoscopic or Intermediate, Lower GI Tract Procedures, between 2 and 18 years",5,5,"No","-",0,718,0,0,811,268,0
+"FZ58B","Endoscopic or Intermediate, Lower GI Tract Procedures, 1 year and under",5,5,"No","-",0,870,0,0,1288,268,0
+"FZ59Z","Intermediate Upper GI Tract Procedures, 19 years and over",5,5,"No","-",243,243,0,0,504,209,0
+"FZ60Z","Diagnostic Endoscopic Upper GI Tract Procedures, 19 years and over",5,5,"No","-",357,357,0,0,767,209,0
+"FZ61Z","Diagnostic Endoscopic Upper GI Tract Procedures with Biopsy, 19 years and over",5,5,"No","-",375,375,0,0,778,209,0
+"FZ62A","Endoscopic or Intermediate, Upper GI Tract Procedures, between 2 and 18 years",5,5,"No","-",0,864,0,0,893,268,0
+"FZ62B","Endoscopic or Intermediate, Upper GI Tract Procedures, 1 year and under",5,5,"No","-",0,985,0,0,843,268,0
+"FZ63Z","Combined Upper and Lower GI Tract Diagnostic Endoscopic Procedures",5,5,"No","-",0,513,0,0,694,209,0
+"FZ64A","Combined Upper and Lower GI Tract Diagnostic Endoscopic Procedures with Biopsy, 19 years and over",5,5,"No","-",0,508,0,0,653,209,0
+"FZ64B","Combined Upper and Lower GI Tract Diagnostic Endoscopic Procedures with Biopsy, 18 years and under",5,5,"No","-",0,1429,0,0,1420,268,0
+"FZ65Z","Combined Upper and Lower GI Tract Therapeutic Endoscopic Procedures",5,11,"No","-",0,535,0,0,613,209,0
+"FZ66A","Very Major Small Intestine Procedures, 19 years and over with CC",30,54,"No","-",0,6440,0,0,7536,209,0
+"FZ66B","Very Major Small Intestine Procedures, 19 years and over without CC",12,23,"No","-",0,4007,0,0,4504,209,0
+"FZ67A","Major Small Intestine Procedures, 19 years and over with CC",16,53,"No","-",0,3796,0,0,6669,209,0
+"FZ67B","Major Small Intestine Procedures, 19 years and over without CC",12,22,"No","-",0,2959,0,0,3876,209,0
+"FZ68C","Very Major or Major Small Intestine Procedures, between 2 and 18 years with CC",27,35,"No","-",0,7333,0,0,7460,268,0
+"FZ68D","Very Major or Major Small Intestine Procedures, between 2 and 18 years without CC",12,13,"No","-",0,3533,0,0,4076,268,0
+"FZ68E","Very Major or Major Small Intestine Procedures, 1 year and under with CC",28,140,"No","-",0,10903,0,0,13089,268,0
+"FZ68F","Very Major or Major Small Intestine Procedures, 1 year and under without CC",14,32,"No","-",0,6012,0,0,6010,268,0
+"FZ69A","Complex Small Intestine Procedures, 19 years and over",67,113,"No","-",0,9950,0,0,12924,209,0
+"FZ69B","Complex Small Intestine Procedures, 18 years and under",96,219,"No","-",0,17841,0,0,20790,268,0
+"FZ70Z","Therapeutic Endoscopic Upper GI Tract Procedures, 19 years and over",5,5,"No","-",0,449,0,0,707,209,0
+"FZ71A","Endoscopic Insertion of Luminal Stent into GI Tract, with length of stay 2 days or more, with Major CC",32,53,"No","-",0,4695,0,0,6088,209,0
+"FZ71B","Endoscopic Insertion of Luminal Stent into GI Tract, with length of stay 2 days or more, without Major CC",12,24,"No","-",0,2540,0,0,3588,209,0
+"FZ71C","Endoscopic Insertion of Luminal Stent into GI Tract, with length of stay 1 day or less",5,5,"No","-",0,790,0,0,833,209,0
+"FZ72Z","Insertion of Spinal Cord Stimulator for Treatment of Faecal Incontinence",5,5,"No","-",0,1465,0,0,1465,209,0
+"FZ73A","Very Complex Large Intestine Procedures with Major CC",66,94,"No","-",0,11339,0,0,12279,209,0
+"FZ73B","Very Complex Large Intestine Procedures without Major CC",24,38,"No","-",0,6893,0,0,7632,209,0
+"FZ74A","Complex Large Intestine Procedures, 19 years and over with Major CC",37,62,"No","-",0,7719,0,0,8433,209,0
+"FZ74B","Complex Large Intestine Procedures, 19 years and over without Major CC",15,33,"No","-",0,5385,0,0,5863,209,0
+"FZ75A","Proximal Colon Procedures, 19 years and over with Major CC",24,47,"No","-",0,5760,0,0,7080,209,0
+"FZ75B","Proximal Colon Procedures, 19 years and over without Major CC",14,22,"No","-",0,4449,0,0,5142,209,0
+"FZ76A","Distal Colon Procedures, 19 years and over with Major CC",23,48,"No","-",0,5786,0,0,7613,209,0
+"FZ76B","Distal Colon Procedures, 19 years and over without Major CC",13,25,"No","-",0,4177,0,0,5307,209,0
+"FZ77A","Major Large Intestine Procedures, 19 years and over with Major CC",17,47,"No","-",0,4029,0,0,5950,209,0
+"FZ77B","Major Large Intestine Procedures, 19 years and over without Major CC",9,26,"No","-",0,2595,0,0,4051,209,0
+"FZ78A","Complex or Major Large Intestine Procedures, between 2 and 18 years with CC",18,51,"No","-",0,6660,0,0,9587,268,0
+"FZ78B","Complex or Major Large Intestine Procedures, between 2 and 18 years without CC",13,22,"No","-",0,4605,0,0,5416,268,0
+"FZ78C","Complex or Major Large Intestine Procedures, 1 year and under with CC",13,83,"No","-",0,6442,0,0,12110,268,0
+"FZ78D","Complex or Major Large Intestine Procedures, 1 year and under without CC",11,23,"No","-",0,4246,0,0,5442,268,0
+"FZ79A","Complex General Abdominal Procedures with Major CC",67,79,"No","-",0,10078,0,0,10356,209,0
+"FZ79B","Complex General Abdominal Procedures without Major CC",12,42,"No","-",0,4367,0,0,6069,209,0
+"FZ80A","Very Complex Oesophageal, Stomach or Duodenum Procedures, 19 years and over with Major CC",60,101,"No","-",0,12223,0,0,12840,209,0
+"FZ80B","Very Complex Oesophageal, Stomach or Duodenum Procedures, 19 years and over without Major CC",23,54,"No","-",0,7881,0,0,8030,209,0
+"FZ81A","Complex Oesophageal, Stomach or Duodenum Procedures, 19 years and over with Major CC",41,68,"No","-",0,8600,0,0,8987,209,0
+"FZ81B","Complex Oesophageal, Stomach or Duodenum Procedures, 19 years and over without Major CC",22,36,"No","-",0,4949,0,0,5797,209,0
+"FZ82A","Very Complex or Complex Oesophageal, Stomach or Duodenum Procedures, 18 years and under with CC",45,135,"No","-",0,13733,0,0,19200,268,0
+"FZ82B","Very Complex or Complex Oesophageal, Stomach or Duodenum Procedures, 18 years and under without CC",11,41,"No","-",0,4752,0,0,8394,268,0
+"FZ83A","Major Oesophageal, Stomach or Duodenum Procedures, 19 years and over with Major CC",17,36,"No","-",0,4276,0,0,5304,209,0
+"FZ83B","Major Oesophageal, Stomach or Duodenum Procedures, 19 years and over without Major CC",6,16,"No","-",146,2593,0,0,2708,209,0
+"FZ83C","Major Oesophageal, Stomach or Duodenum Procedures, between 2 and 18 years with CC",16,76,"No","-",0,5713,0,0,7625,268,0
+"FZ83D","Major Oesophageal, Stomach or Duodenum Procedures, between 2 and 18 years without CC",10,16,"No","-",0,3895,0,0,4619,268,0
+"FZ83E","Major Oesophageal, Stomach or Duodenum Procedures, 1 year and under with CC",22,67,"No","-",0,7186,0,0,10202,268,0
+"FZ83F","Major Oesophageal, Stomach or Duodenum Procedures, 1 year and under without CC",11,8,"No","-",0,4471,0,0,3512,268,0
+"FZ84Z","Stomach Bypass Procedures for Obesity",5,10,"No","-",0,6313,0,0,6313,209,0
+"FZ85Z","Restrictive Stomach Procedures for Obesity",5,6,"No","-",0,5025,0,0,5025,209,0
+"FZ86Z","Endoscopic Insertion of Gastric Balloon for Obesity",5,16,"No","-",0,1349,0,0,2732,209,0
+"FZ87A","Complex Hernia Procedures with Major CC",14,35,"No","-",0,3385,0,0,5078,209,0
+"FZ87B","Complex Hernia Procedures with Intermediate CC",10,17,"No","-",0,2643,0,0,3340,209,0
+"FZ87C","Complex Hernia Procedures without CC",5,17,"No","-",0,1652,0,0,3248,209,0
+"FZ88A","Insertion of Gastrostomy Tube, 19 years and over",5,5,"No","-",0,895,0,0,925,209,0
+"FZ88B","Insertion of Gastrostomy Tube, 18 years and under",5,5,"No","-",0,1483,0,0,963,268,0
+"GA03A","Very Complex Open Hepatobiliary or Pancreatic Procedures, with CC",46,79,"No","-",0,11204,0,0,15830,203,0
+"GA03B","Very Complex Open Hepatobiliary or Pancreatic Procedures, without CC",24,54,"No","-",0,7797,0,0,12199,203,0
+"GA04A","Complex Open Hepatobiliary or Pancreatic Procedures, with CC",25,69,"No","-",0,8327,0,0,12514,203,0
+"GA04B","Complex Open Hepatobiliary or Pancreatic Procedures, without CC",14,37,"No","-",0,6875,0,0,7849,203,0
+"GA05A","Very Major Open Hepatobiliary or Pancreatic Procedures, with CC",19,49,"No","-",0,6639,0,0,8587,203,0
+"GA05B","Very Major Open Hepatobiliary or Pancreatic Procedures, without CC",14,26,"No","-",0,5586,0,0,5728,203,0
+"GA06A","Major Open Hepatobiliary or Pancreatic Procedures, with CC",20,48,"No","-",0,4488,0,0,7028,203,0
+"GA06B","Major Open Hepatobiliary or Pancreatic Procedures, without CC",15,20,"No","-",0,2800,0,0,3859,203,0
+"GA07A","Intermediate Open Hepatobiliary or Pancreatic Procedures, with CC",16,33,"No","-",0,3839,0,0,5468,203,0
+"GA07B","Intermediate Open Hepatobiliary or Pancreatic Procedures, without CC",9,17,"No","-",0,2717,0,0,3728,203,0
+"GA10C","Open Cholecystectomy, 19 years and over without CC",9,15,"No","-",0,2595,0,0,3820,203,0
+"GA10D","Laparoscopic Cholecystectomy, 19 years and over, with length of stay 1 day or more, without CC",5,11,"No","-",0,0,0,1394,3061,203,0
+"GA10E","Laparoscopic Cholecystectomy, 19 years and over, with length of stay 0 days, without CC",5,5,"No","-",0,0,1726,1394,896,203,0
+"GA10F","Open or Laparoscopic Cholecystectomy, 19 years and over with CC",5,22,"No","-",0,2207,0,0,4225,203,0
+"GA10G","Open or Laparoscopic Cholecystectomy, 18 years and under",5,13,"No","-",0,2114,0,0,3698,317,0
+"GA11Z","Pancreatic Necrosectomy",110,175,"No","-",0,6770,0,0,20395,203,0
+"GA13A","Minor Open or Laparoscopic, Hepatobiliary or Pancreatic Procedures, with CC",8,28,"No","-",0,2183,0,0,3769,203,0
+"GA13B","Minor Open or Laparoscopic, Hepatobiliary or Pancreatic Procedures, without CC",5,19,"No","-",0,1691,0,0,2116,203,0
+"GB01A","Very Major Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, with Major CC",37,66,"No","-",0,5325,0,0,8281,203,0
+"GB01B","Very Major Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, without Major CC",6,33,"No","-",0,2217,0,0,4753,203,0
+"GB02A","Major Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, with Major CC",15,54,"No","-",0,3289,0,0,6710,203,0
+"GB02B","Major Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, with Intermediate CC",8,35,"No","-",0,1905,0,0,4312,203,0
+"GB02C","Major Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, without CC",5,24,"No","-",0,1732,0,0,3110,203,0
+"GB03A","Intermediate Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, with CC",5,24,"No","-",0,675,0,0,3554,203,0
+"GB03B","Intermediate Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, without CC",5,11,"No","-",0,494,0,0,1731,203,0
+"GB04D","Minor Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, 19 years and over",5,5,"No","-",0,494,0,0,566,203,0
+"GB04E","Minor Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, 18 years and under",5,5,"No","-",0,1788,0,0,1788,317,0
+"GB05C","Major Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 3 days or more, with Major CC",44,57,"No","-",0,6167,0,0,7320,203,0
+"GB05D","Major Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 3 days or more, without Major CC",22,27,"No","-",0,4107,0,0,4453,203,0
+"GB05E","Major Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 2 days or less",5,5,"No","-",0,945,0,0,1090,203,0
+"GB06A","Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 3 days or more, with Major CC",30,44,"No","-",0,4566,0,0,5551,203,0
+"GB06B","Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 3 days or more, with Intermediate CC",16,21,"No","-",0,3011,0,0,3548,203,0
+"GB06C","Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 3 days or more, without C",11,18,"No","-",0,2558,0,0,2886,203,0
+"GB06D","Intermediate Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 2 days or less",5,5,"No","-",0,848,0,0,1055,203,0
+"GB07Z","Minor Diagnostic Endoscopic Retrograde Cholangiopancreatography",5,5,"No","-",0,734,0,0,946,203,0
+"GB08A","Complex Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, with Major CC",57,92,"No","-",0,10416,0,0,12246,203,0
+"GB08B","Complex Endoscopic or Percutaneous, Hepatobiliary or Pancreatic Procedures, without Major CC",41,57,"No","-",0,5135,0,0,8137,203,0
+"GB09A","Complex Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 3 days or more, with Major CC",5,40,"No","-",0,1914,0,0,5224,203,0
+"GB09B","Complex Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 3 days or more, without Major CC",5,40,"No","-",0,1914,0,0,5224,203,0
+"GB09C","Complex Therapeutic Endoscopic Retrograde Cholangiopancreatography, with length of stay 2 days or less",5,40,"No","-",0,1914,0,0,5224,203,0
+"GC01A","Liver Failure Disorders with Interventions",31,44,"Yes","30%",0,3857,0,0,4373,203,1312
+"GC01B","Liver Failure Disorders without Interventions",16,20,"Yes","30%",0,1351,0,0,2439,203,732
+"GC12A","Malignant Liver or Pancreatic Disorders, with length of stay 2 days or more",15,29,"No","-",0,2306,0,0,3017,203,0
+"GC12B","Malignant Liver or Pancreatic Disorders, with length of stay 1 day or less",5,5,"Yes","100%",0,399,0,0,585,203,585
+"GC15A","Non-Malignant Liver Disorders with Catastrophic CCs",54,62,"Yes","30%",0,6051,0,0,5733,203,1720
+"GC15B","Non-Malignant Liver Disorders with Severe CCs",29,41,"Yes","30%",0,3105,0,0,4120,203,1236
+"GC15C","Non-Malignant Liver Disorders with Major CCs",15,29,"Yes","30%",0,1867,0,0,3148,203,945
+"GC15D","Non-Malignant Liver Disorders without Major CCs",5,17,"Yes","30%",0,774,0,0,2149,203,644
+"GC16A","Non-Malignant Pancreatic or Biliary Disorders, with Catastrophic CCs",78,56,"Yes","30%",0,4935,0,0,5223,203,1567
+"GC16B","Non-Malignant Pancreatic or Biliary Disorders, with Severe CCs",31,33,"Yes","30%",0,2765,0,0,3335,203,1001
+"GC16C","Non-Malignant Pancreatic or Biliary Disorders, with Major CCs",15,16,"Yes","30%",0,1332,0,0,2071,203,621
+"GC16D","Non-Malignant Pancreatic or Biliary Disorders, without Major CCs",5,11,"Yes","40%",0,793,0,0,1489,203,595
+"HA11A","Major Hip Procedures for Trauma, Category 2, with Major CC",86,86,"No","-",0,8508,0,0,8508,210,0
+"HA11B","Major Hip Procedures for Trauma, Category 2, with Intermediate CC",38,38,"No","-",0,7696,0,0,7696,210,0
+"HA11C","Major Hip Procedures for Trauma, Category 2, without CC",30,30,"No","-",0,6482,0,0,6482,210,0
+"HA12B","Major Hip Procedures for Trauma, Category 1, with CC",52,52,"No","-",0,8274,0,0,8274,210,0
+"HA12C","Major Hip Procedures for Trauma, Category 1, without CC",29,29,"No","-",0,6216,0,0,6216,210,0
+"HA13A","Intermediate Hip Procedures for Trauma, with Major CC",60,60,"No","-",0,6900,0,0,6900,210,0
+"HA13B","Intermediate Hip Procedures for Trauma, with Intermediate CC",35,35,"No","-",0,5538,0,0,5538,210,0
+"HA13C","Intermediate Hip Procedures for Trauma, without CC",29,29,"No","-",0,5537,0,0,5537,210,0
+"HA14A","Minor Hip Procedures for Trauma, with Major CC",60,60,"No","-",0,2701,0,0,2701,210,0
+"HA14B","Minor Hip Procedures for Trauma, with Intermediate CC",33,33,"No","-",0,2101,0,0,2101,210,0
+"HA14C","Minor Hip Procedures for Trauma, without CC",24,24,"No","-",0,1488,0,0,1488,210,0
+"HA19Z","Minimal Hip Procedures for Trauma, with length of stay 1 day or less",5,5,"No","-",0,642,0,0,902,210,0
+"HA21B","Major Knee Procedures for Trauma, Category 2, with CC",57,57,"No","-",0,6839,0,0,6839,210,0
+"HA21C","Major Knee Procedures for Trauma, Category 2, without CC",15,15,"No","-",0,5809,0,0,5809,210,0
+"HA22B","Major Knee Procedures for Trauma, Category 1, with CC",62,62,"No","-",0,5688,0,0,5688,210,0
+"HA22C","Major Knee Procedures for Trauma, Category 1, without CC",13,13,"No","-",0,3562,0,0,3562,210,0
+"HA23B","Intermediate Knee Procedures for Trauma, Category 2, with CC",47,47,"No","-",0,4428,0,0,4428,210,0
+"HA23C","Intermediate Knee Procedures for Trauma, Category 2, without CC",7,7,"No","-",0,2945,0,0,2945,210,0
+"HA24Z","Intermediate Knee Procedures for Trauma, Category 1",25,25,"No","-",0,2941,0,0,2941,210,0
+"HA25B","Minor Knee Procedures for Trauma, Category 2, with CC",54,54,"No","-",0,2661,0,0,2661,210,0
+"HA25C","Minor Knee Procedures for Trauma, Category 2, without CC",10,10,"No","-",0,2514,0,0,2514,210,0
+"HA26B","Minor Knee Procedures for Trauma, Category 1, with CC",40,40,"No","-",0,1441,0,0,1441,210,0
+"HA26C","Minor Knee Procedures for Trauma, Category 1, without CC",6,6,"No","-",0,1391,0,0,1391,210,0
+"HA29Z","Minimal Knee Procedures for Trauma, with length of stay 1 day or less",5,5,"No","-",0,721,0,0,623,210,0
+"HA31B","Major Foot Procedures for Trauma, with CC",43,43,"No","-",0,4307,0,0,4307,210,0
+"HA31C","Major Foot Procedures for Trauma, without CC",11,11,"No","-",0,3034,0,0,3034,210,0
+"HA32Z","Intermediate Foot Procedures for Trauma, Category 2",18,18,"No","-",0,2947,0,0,2947,210,0
+"HA33Z","Intermediate Foot Procedures for Trauma, Category 1",11,11,"No","-",0,1969,0,0,1969,210,0
+"HA34Z","Minor Foot Procedures for Trauma, Category 2",10,10,"No","-",0,1931,0,0,1931,210,0
+"HA35Z","Minor Foot Procedures for Trauma, Category 1",7,7,"No","-",0,1819,0,0,1819,210,0
+"HA39Z","Minimal Foot Procedures for Trauma, with length of stay 1 day or less",5,5,"No","-",0,672,0,0,557,210,0
+"HA51Z","Major Hand Procedures for Trauma, Category 2",5,5,"No","-",0,4161,0,0,4161,210,0
+"HA52Z","Major Hand Procedures for Trauma, Category 1",5,5,"No","-",0,3333,0,0,3333,210,0
+"HA53Z","Intermediate Hand Procedures for Trauma, Category 2",5,5,"No","-",0,2866,0,0,2866,210,0
+"HA54Z","Intermediate Hand Procedures for Trauma, Category 1",5,5,"No","-",0,1331,0,0,1331,210,0
+"HA55Z","Minor Hand Procedures for Trauma, Category 2",5,5,"No","-",0,1322,0,0,1322,210,0
+"HA56A","Minor Hand Procedures for Trauma, Category 1, 19 years and over",5,5,"No","-",0,1031,0,0,1031,210,0
+"HA56B","Minor Hand Procedures for Trauma, Category 1, 18 years and under",5,5,"No","-",0,951,0,0,951,317,0
+"HA59Z","Minimal Hand Procedures for Trauma, with length of stay 1 day or less",5,5,"No","-",0,508,0,0,508,210,0
+"HA61B","Major Shoulder and Upper Arm Procedures for Trauma, with CC",37,37,"No","-",0,4258,0,0,4258,210,0
+"HA61C","Major Shoulder and Upper Arm Procedures for Trauma, without CC",6,6,"No","-",0,3356,0,0,3356,210,0
+"HA62Z","Intermediate Shoulder and Upper Arm Procedures for Trauma",5,5,"No","-",0,3104,0,0,3104,210,0
+"HA63Z","Minor Shoulder and Upper Arm Procedures for Trauma",5,5,"No","-",0,1838,0,0,1838,210,0
+"HA69Z","Minimal Shoulder and Upper Arm Procedures for Trauma, with length of stay 1 day or less",5,5,"No","-",0,536,0,0,511,210,0
+"HA71B","Major Elbow and Lower Arm Procedures for Trauma, with CC",25,25,"No","-",0,4281,0,0,4281,210,0
+"HA71C","Major Elbow and Lower Arm Procedures for Trauma, without CC",5,5,"No","-",0,3028,0,0,3028,210,0
+"HA72Z","Intermediate Elbow and Lower Arm Procedures for Trauma",5,5,"No","-",0,2300,0,0,2300,210,0
+"HA73B","Minor Elbow and Lower Arm Procedures for Trauma, 18 years and under",5,5,"No","-",0,1192,0,0,1192,317,0
+"HA73C","Minor Elbow and Lower Arm Procedures for Trauma, 19 years and over",5,5,"No","-",0,1188,0,0,1188,210,0
+"HA79Z","Minimal Elbow and Lower Arm Procedures for Trauma, with length of stay 1 day or less",5,5,"No","-",0,543,0,0,543,210,0
+"HA81A","Sprains, Strains or Minor Open Wounds, with Major CC",47,34,"Yes","30%",0,1489,0,0,2375,210,713
+"HA81B","Sprains, Strains or Minor Open Wounds, with Intermediate CC",26,13,"Yes","40%",0,940,0,0,1500,210,600
+"HA81C","Sprains, Strains or Minor Open Wounds, without CC",5,5,"Yes","65%",0,621,0,0,621,210,404
+"HA83A","Head Injury with Major CC",35,20,"Yes","30%",0,1862,0,0,2970,210,891
+"HA83B","Head Injury with Intermediate CC",64,5,"No","-",0,651,0,0,637,210,0
+"HA83C","Head Injury without CC",15,5,"No","-",0,337,0,0,372,210,0
+"HA91Z","Hip Trauma Diagnosis without Procedure",48,48,"No","-",0,1328,0,0,1173,210,0
+"HA92Z","Knee Trauma Diagnosis without Procedure",86,39,"No","-",0,1097,0,0,1016,210,0
+"HA93Z","Foot Trauma Diagnosis without Procedure",55,16,"No","-",0,909,0,0,626,210,0
+"HA94Z","Arm Trauma Diagnosis without Procedure",45,18,"No","-",0,882,0,0,458,210,0
+"HA95Z","Hand Trauma Diagnosis without Procedure",5,5,"No","-",0,355,0,0,570,210,0
+"HA96Z","Multiple Trauma Diagnoses without Procedure",35,35,"Yes","30%",0,1450,0,0,1450,210,435
+"HA97Z","Other Trauma Diagnosis without Procedure",15,15,"Yes","30%",0,661,0,0,661,210,199
+"HA99Z","Other Procedures for Trauma",26,26,"No","-",0,425,0,0,425,210,0
+"HB11A","Major Hip Procedures for Non-Trauma, Category 2, with Major CC",68,68,"No","-",0,8462,0,0,8462,210,0
+"HB11B","Major Hip Procedures for Non-Trauma, Category 2, with Intermediate CC",15,15,"No","-",0,6058,0,0,6058,210,0
+"HB11C","Major Hip Procedures for Non-Trauma, Category 2, without CC",10,10,"No","-",0,5761,0,0,5761,210,0
+"HB12A","Major Hip Procedures for Non-Trauma, Category 1, with Major CC",31,31,"No","-",0,7150,0,0,7150,210,0
+"HB12B","Major Hip Procedures for Non-Trauma, Category 1, with Intermediate CC",14,14,"No","-",0,5884,0,0,5884,210,0
+"HB12C","Major Hip Procedures for Non-Trauma, Category 1, without CC",9,9,"No","-",0,5150,0,0,5150,210,0
+"HB13Z","Intermediate Hip Procedures for Non-Trauma, Category 2",16,16,"No","-",0,4472,0,0,4472,210,0
+"HB14B","Intermediate Hip Procedures for Non-Trauma, Category 1, with CC",35,35,"No","-",0,3021,0,0,3021,210,0
+"HB14C","Intermediate Hip Procedures for Non-Trauma, Category 1, without CC",6,6,"No","-",0,1851,0,0,1851,210,0
+"HB15D","Minor Hip Procedures for Non-Trauma, Category 2, 19 years and over with CC",40,40,"No","-",0,1479,0,0,1479,210,0
+"HB15E","Minor Hip Procedures for Non-Trauma, Category 2, 19 years and over without CC",5,5,"No","-",0,1259,0,0,1259,210,0
+"HB15F","Minor Hip Procedures for Non-Trauma, Category 2, 18 years and under with CC",19,19,"No","-",0,1485,0,0,1485,317,0
+"HB15G","Minor Hip Procedures for Non-Trauma, Category 2, 18 years and under without CC",5,5,"No","-",0,1385,0,0,1385,317,0
+"HB16B","Minor Hip Procedures for Non-Trauma, Category 1, with CC",25,25,"No","-",0,1024,0,0,1024,210,0
+"HB16C","Minor Hip Procedures for Non-Trauma, Category 1, without CC",5,5,"No","-",0,783,0,0,783,210,0
+"HB19Z","Minimal Hip Procedures for Non-Trauma, with length of stay 1 day or less",5,5,"No","-",0,654,0,0,654,210,0
+"HB21A","Major Knee Procedures for Non-Trauma, Category 2, with Major CC",24,24,"No","-",0,7518,0,0,7518,210,0
+"HB21B","Major Knee Procedures for Non-Trauma, Category 2, with CC",11,11,"No","-",0,6248,0,0,6248,210,0
+"HB21C","Major Knee Procedures for Non-Trauma, Category 2, without CC",9,9,"No","-",0,5566,0,0,5566,210,0
+"HB22B","Major Knee Procedures for Non-Trauma, Category 1, with CC",42,42,"No","-",0,3318,0,0,3318,210,0
+"HB22C","Major Knee Procedures for Non-Trauma, Category 1, without CC",5,5,"No","-",0,2364,0,0,2364,210,0
+"HB23B","Intermediate Knee Procedures for Non-Trauma, with CC",26,26,"No","-",0,2267,0,0,2267,210,0
+"HB23C","Intermediate Knee Procedures for Non-Trauma, without CC",5,5,"No","-",0,1632,0,0,1632,210,0
+"HB24B","Minor Knee Procedures for Non-Trauma, Category 2, with CC",35,35,"No","-",0,1549,0,0,1549,210,0
+"HB24C","Minor Knee Procedures for Non-Trauma, Category 2, without CC",5,5,"No","-",0,1078,0,0,1078,210,0
+"HB25D","Minor Knee Procedures for Non-Trauma, Category 1, 19 years and over, with Major CC",42,42,"No","-",0,1007,0,0,1007,210,0
+"HB25E","Minor Knee Procedures for Non-Trauma, Category 1, 19 years and over, with Intermediate CC",5,5,"No","-",0,923,0,0,923,210,0
+"HB25F","Minor Knee Procedures for Non-Trauma, Category 1, 19 years and over, without CC",5,5,"No","-",127,859,0,0,859,210,0
+"HB25G","Minor Knee Procedures for Non-Trauma, Category 1, 18 years and under, with Major CC",18,18,"No","-",0,1194,0,0,1194,317,0
+"HB25H","Minor Knee Procedures for Non-Trauma, Category 1, 18 years and under, with Intermediate CC",5,5,"No","-",0,1009,0,0,1009,317,0
+"HB25J","Minor Knee Procedures for Non-Trauma, Category 1, 18 years and under, without CC",5,5,"No","-",0,947,0,0,947,317,0
+"HB29Z","Minimal Knee Procedures for Non-Trauma, with length of stay 1 day or less",5,5,"No","-",356,356,0,0,356,210,0
+"HB31Z","Major Foot Procedures for Non-Trauma",6,6,"No","-",0,0,3072,4902,4902,210,0
+"HB32A","Intermediate Foot Procedures for Non-Trauma, Category 2, 19 years and over",5,5,"No","-",0,2910,0,0,2910,210,0
+"HB32B","Intermediate Foot Procedures for Non-Trauma, Category 2, 18 years and under",5,5,"No","-",0,2522,0,0,2522,317,0
+"HB33D","Intermediate Foot Procedures for Non-Trauma, Category 1, 19 years and over, with CC",20,20,"No","-",0,2481,0,0,2481,210,0
+"HB33E","Intermediate Foot Procedures for Non-Trauma, Category 1, 19 years and over, without CC",5,5,"No","-",0,1665,0,0,1665,210,0
+"HB33F","Intermediate Foot Procedures for Non-Trauma, Category 1, 18 years and under, with CC",20,20,"No","-",0,2399,0,0,2399,317,0
+"HB33G","Intermediate Foot Procedures for Non-Trauma, Category 1, 18 years and under, without CC",5,5,"No","-",0,1495,0,0,1495,317,0
+"HB34D","Minor Foot Procedures for Non-Trauma, Category 2, 19 years and over, with CC",17,17,"No","-",0,1831,0,0,1831,210,0
+"HB34E","Minor Foot Procedures for Non-Trauma, Category 2, 19 years and over, without CC",5,5,"No","-",0,1181,0,0,1181,210,0
+"HB34F","Minor Foot Procedures for Non-Trauma, Category 2, 18 years and under, with CC",8,8,"No","-",0,1612,0,0,1612,317,0
+"HB34G","Minor Foot Procedures for Non-Trauma, Category 2, 18 years and under, without CC",5,5,"No","-",0,1107,0,0,1107,317,0
+"HB35B","Minor Foot Procedures for Non-Trauma, Category 1, with CC",28,28,"No","-",0,1203,0,0,1203,210,0
+"HB35C","Minor Foot Procedures for Non-Trauma, Category 1, without CC",5,5,"No","-",257,812,0,0,812,210,0
+"HB39Z","Minimal Foot Procedures for Non-Trauma, with length of stay 1 day or less",5,5,"No","-",0,672,0,0,672,210,0
+"HB51Z","Major Hand Procedures for Non-Trauma, Category 2",5,5,"No","-",0,4743,0,0,4743,210,0
+"HB52B","Major Hand Procedures for Non-Trauma, Category 1, with CC",11,11,"No","-",0,4150,0,0,4150,210,0
+"HB52C","Major Hand Procedures for Non-Trauma, Category 1, without CC",5,5,"No","-",0,3418,0,0,3418,210,0
+"HB53Z","Intermediate Hand Procedures for Non-Trauma, Category 2",5,5,"No","-",0,2419,0,0,2419,210,0
+"HB54B","Intermediate Hand Procedures for Non-Trauma, Category 1, with CC",14,14,"No","-",0,1416,0,0,1416,210,0
+"HB54C","Intermediate Hand Procedures for Non-Trauma, Category 1, without CC",5,5,"No","-",0,1104,0,0,1104,210,0
+"HB55B","Minor Hand Procedures for Non-Trauma, Category 2, with CC",5,5,"No","-",0,889,0,0,889,210,0
+"HB55C","Minor Hand Procedures for Non-Trauma, Category 2, without CC",5,5,"No","-",0,816,0,0,816,210,0
+"HB56B","Minor Hand Procedures for Non-Trauma, Category 1, with CC",15,15,"No","-",0,726,0,0,726,210,0
+"HB56C","Minor Hand Procedures for Non-Trauma, Category 1, without CC",5,5,"No","-",227,711,0,0,711,210,0
+"HB59Z","Minimal Hand Procedures for Non-Trauma, with length of stay 1 day or less",5,5,"No","-",0,557,0,0,557,210,0
+"HB61B","Major Shoulder and Upper Arm Procedures for Non-Trauma, with CC",13,13,"No","-",0,5417,0,0,5417,210,0
+"HB61C","Major Shoulder and Upper Arm Procedures for Non-Trauma, without CC",5,5,"No","-",0,0,3610,5047,5047,210,0
+"HB62B","Intermediate Shoulder and Upper Arm Procedures for Non-Trauma, with CC",16,16,"No","-",0,3094,0,0,3094,210,0
+"HB62C","Intermediate Shoulder and Upper Arm Procedures for Non-Trauma, without CC",5,5,"No","-",0,2531,0,0,2531,210,0
+"HB63Z","Minor Shoulder and Upper Arm Procedures for Non-Trauma",5,5,"No","-",0,1015,0,0,1015,210,0
+"HB69Z","Minimal Shoulder and Upper Arm Procedures for Non-Trauma, with length of stay 1 day or less",5,5,"No","-",282,282,0,0,282,210,0
+"HB71B","Major Elbow and Lower Arm Procedures for Non-Trauma, with CC",18,18,"No","-",0,5285,0,0,5285,210,0
+"HB71C","Major Elbow and Lower Arm Procedures for Non-Trauma, without CC",5,5,"No","-",0,0,2668,4965,4965,210,0
+"HB72Z","Intermediate Elbow and Lower Arm Procedures for Non-Trauma",5,5,"No","-",0,2387,0,0,2387,210,0
+"HB73Z","Minor Elbow and Lower Arm Procedures for Non-Trauma",5,5,"No","-",0,1105,0,0,1105,210,0
+"HB79Z","Minimal Elbow and Lower Arm Procedures for Non-Trauma, with length of stay 1 day or less",5,5,"No","-",268,268,0,0,268,210,0
+"HB91Z","Other Non-Trauma Diagnosis without Procedure",22,22,"Yes","30%",0,767,0,0,767,210,230
+"HB99Z","Other Procedures for Non-Trauma",5,5,"No","-",0,286,0,0,286,210,0
+"HC01Z","Extradural Spine Major 2",14,14,"No","-",0,8423,0,0,8423,210,0
+"HC02B","Extradural Spine Major 1 with CC",38,38,"No","-",0,8648,0,0,8648,210,0
+"HC02C","Extradural Spine Major 1 without CC",11,11,"No","-",0,5763,0,0,5763,210,0
+"HC03B","Extradural Spine Intermediate 2 with CC",29,29,"No","-",0,6177,0,0,6177,210,0
+"HC03C","Extradural Spine Intermediate 2 without CC",8,8,"No","-",0,4534,0,0,4534,210,0
+"HC04B","Extradural Spine Intermediate 1 with CC",17,17,"No","-",0,5346,0,0,5346,210,0
+"HC04C","Extradural Spine Intermediate 1 without CC",5,5,"No","-",0,3260,0,0,3260,210,0
+"HC05B","Extradural Spine Minor 2 with CC",50,50,"No","-",0,4711,0,0,4711,210,0
+"HC05C","Extradural Spine Minor 2 without CC",5,5,"No","-",0,2330,0,0,2330,210,0
+"HC06Z","Extradural Spine Minor 1",5,5,"No","-",0,715,0,0,715,210,0
+"HC07Z","Intradural Spine Major",20,20,"No","-",0,6201,0,0,6201,210,0
+"HC09Z","Intradural Spine Intermediate 2",14,14,"No","-",0,4657,0,0,4657,210,0
+"HC10Z","Intradural Spine Intermediate 1",18,18,"No","-",0,3792,0,0,3792,210,0
+"HC11Z","Intradural Spine Minor 2",16,16,"No","-",0,3045,0,0,3045,210,0
+"HC12Z","Intradural Spine Minor 1",5,5,"No","-",0,596,0,0,596,210,0
+"HC20B","Vertebral Column Injury without Procedure, with CC",63,51,"Yes","30%",0,1720,0,0,3898,210,1170
+"HC20C","Vertebral Column Injury without Procedure, without CC",61,21,"Yes","30%",0,332,0,0,2128,210,638
+"HC21B","Spinal Cord Injury without Procedure, with CC",205,192,"Yes","30%",0,4995,0,0,12233,210,3669
+"HC21C","Spinal Cord Injury without Procedure, without CC",38,34,"Yes","30%",0,3022,0,0,12233,210,3669
+"HC26B","Scoliosis or Other Spinal Deformity, with CC",5,32,"Yes","30%",0,1493,0,0,2708,210,812
+"HC26C","Scoliosis or Other Spinal Deformity, without CC",5,20,"Yes","30%",0,659,0,0,1602,210,481
+"HC27B","Degenerative Spinal Conditions with CC",5,24,"Yes","30%",0,949,0,0,2144,210,643
+"HC27C","Degenerative Spinal Conditions without CC",5,8,"Yes","40%",0,697,0,0,1106,210,443
+"HC28B","Spinal Cord Conditions with CC",33,52,"Yes","30%",0,2658,0,0,6478,210,1944
+"HC28C","Spinal Cord Conditions without CC",5,30,"Yes","30%",0,1881,0,0,3428,210,1029
+"HC29Z","Inflammatory Spinal Conditions",5,5,"Yes","65%",0,364,0,0,1088,210,707
+"HC30B","Spinal Tumours with CC",50,50,"Yes","30%",0,6718,0,0,6718,210,2016
+"HC30C","Spinal Tumours without CC",10,37,"Yes","30%",0,2103,0,0,3026,210,908
+"HC31B","Spinal Infection with CC",5,100,"Yes","30%",0,2092,0,0,6783,210,2035
+"HC31C","Spinal Infection without CC",5,56,"Yes","30%",0,491,0,0,4633,210,1390
+"HC32B","Low Back Pain with CC",5,24,"Yes","30%",0,552,0,0,1250,210,375
+"HC32C","Low Back Pain without CC",5,8,"Yes","65%",0,505,0,0,802,210,521
+"HD21A","Soft Tissue Disorders with Major CC",10,15,"Yes","30%",0,1403,0,0,1987,210,596
+"HD21B","Soft Tissue Disorders with Intermediate CC",5,5,"Yes","100%",0,504,0,0,434,210,434
+"HD21C","Soft Tissue Disorders without CC",5,5,"Yes","100%",0,450,0,0,345,210,345
+"HD23A","Inflammatory Spine, Joint or Connective Tissue Disorders, with Major CC",10,32,"Yes","30%",0,1458,0,0,3285,210,985
+"HD23B","Inflammatory Spine, Joint or Connective Tissue Disorders, with Intermediate CC",5,10,"Yes","40%",0,507,0,0,1504,210,602
+"HD23C","Inflammatory Spine, Joint or Connective Tissue Disorders, without CC",5,5,"Yes","65%",0,443,0,0,618,210,402
+"HD24A","Non-Inflammatory Bone or Joint Disorders, with Major CC",10,50,"Yes","30%",0,861,0,0,3546,210,1064
+"HD24B","Non-Inflammatory Bone or Joint Disorders, with Intermediate CC",5,15,"Yes","30%",0,370,0,0,1839,210,551
+"HD24C","Non-Inflammatory Bone or Joint Disorders, without CC",5,5,"Yes","65%",0,367,0,0,654,210,425
+"HD25A","Infections of Bones or Joints, with Major CC",23,62,"Yes","30%",0,2166,0,0,5302,210,1591
+"HD25B","Infections of Bones or Joints, with Intermediate CC",5,27,"Yes","30%",0,671,0,0,2892,210,868
+"HD25C","Infections of Bones or Joints, without CC",5,18,"Yes","30%",0,459,0,0,2354,210,706
+"HD26A","Musculoskeletal Signs and Symptoms, with Major CC",68,36,"Yes","30%",0,4850,0,0,2840,210,852
+"HD26B","Musculoskeletal Signs and Symptoms, with Intermediate CC",8,8,"Yes","40%",0,1224,0,0,1157,210,463
+"HD26C","Musculoskeletal Signs and Symptoms, without CC",5,5,"Yes","100%",0,468,0,0,442,210,442
+"HD39A","Pathological Fractures with Major CC",20,57,"Yes","30%",0,2192,0,0,4692,210,1407
+"HD39B","Pathological Fractures with Intermediate CC",5,35,"Yes","30%",0,375,0,0,3018,210,906
+"HD39C","Pathological Fractures without CC",5,22,"Yes","30%",0,351,0,0,1996,210,599
+"HD40A","Malignancy of Bone or Connective Tissue, with Major CC",13,42,"Yes","30%",0,1402,0,0,3811,210,1143
+"HD40B","Malignancy of Bone or Connective Tissue, with Intermediate CC",5,22,"Yes","30%",0,387,0,0,2576,210,772
+"HD40C","Malignancy of Bone or Connective Tissue, without CC",5,15,"Yes","40%",0,387,0,0,2149,210,860
+"HR01B","Reconstruction Procedures Category 6, with CC",49,49,"No","-",0,31381,0,0,31381,210,0
+"HR01C","Reconstruction Procedures Category 6, without CC",17,17,"No","-",0,20075,0,0,20075,210,0
+"HR02Z","Reconstruction Procedures Category 5",14,54,"No","-",0,14735,0,0,17062,210,0
+"HR03Z","Reconstruction Procedures Category 4",26,98,"No","-",0,11129,0,0,12530,210,0
+"HR04B","Reconstruction Procedures Category 3, with CC",55,55,"No","-",0,10540,0,0,10540,210,0
+"HR04C","Reconstruction Procedures Category 3, without CC",15,15,"No","-",0,9703,0,0,9703,210,0
+"HR05Z","Reconstruction Procedures Category 2",16,16,"No","-",0,8753,0,0,8753,210,0
+"HR06A","Reconstruction Procedures Category 1, 19 years and over",9,9,"No","-",0,6795,0,0,6795,210,0
+"HR06B","Reconstruction Procedures Category 1, 18 years and under",5,5,"No","-",0,5586,0,0,5586,317,0
+"JA12A","Malignant Breast Disorders with Major CC",5,27,"Yes","30%",0,526,0,0,3061,207,918
+"JA12B","Malignant Breast Disorders with Intermediate CC",5,8,"Yes","40%",0,366,0,0,1504,207,601
+"JA12C","Malignant Breast Disorders without CC",5,5,"Yes","65%",0,366,0,0,539,207,351
+"JA13Z","Non-Malignant Breast Disorders",5,5,"Yes","65%",0,1047,0,0,972,207,632
+"JA14Z","Free Perforator Flap Breast Reconstruction",10,15,"No","-",0,7522,0,0,6789,207,0
+"JA18A","Unilateral Minor Breast Procedures with Major CC",5,37,"No","-",0,1182,0,0,3209,207,0
+"JA18B","Unilateral Minor Breast Procedures with Intermediate CC",5,9,"No","-",0,855,0,0,1487,207,0
+"JA18C","Unilateral Minor Breast Procedures without CC",5,5,"No","-",317,623,0,0,936,207,0
+"JA19Z","Bilateral Minor Breast Procedures",5,50,"No","-",0,649,0,0,1774,207,0
+"JA20A","Unilateral Major Breast Procedures with Major CC",5,52,"No","-",0,2306,0,0,3689,207,0
+"JA20B","Unilateral Major Breast Procedures with Intermediate CC",5,14,"No","-",0,2105,0,0,3212,207,0
+"JA20C","Unilateral Major Breast Procedures without CC",5,10,"No","-",0,1910,0,0,1782,207,0
+"JA21A","Bilateral Major Breast Procedures with CC",6,49,"No","-",0,2907,0,0,2856,207,0
+"JA21B","Bilateral Major Breast Procedures without CC",5,17,"No","-",0,2535,0,0,2072,207,0
+"JA24A","Unilateral Intermediate Breast Procedures with Major CC",5,46,"No","-",0,1454,0,0,5301,207,0
+"JA24B","Unilateral Intermediate Breast Procedures with Intermediate CC",5,20,"No","-",0,1373,0,0,2759,207,0
+"JA24C","Unilateral Intermediate Breast Procedures without CC",5,11,"No","-",0,1196,0,0,2094,207,0
+"JA25Z","Bilateral Intermediate Breast Procedures",5,28,"No","-",0,1460,0,0,2147,207,0
+"JA26Z","Major Breast Procedures with Lymph Node Surgery",6,37,"No","-",0,2833,0,0,2959,207,0
+"JA27Z","Mastectomy with Simple Breast Reconstruction",11,26,"No","-",0,5403,0,0,5058,207,0
+"JA28Z","Mastectomy with Complex Breast Reconstruction",11,5,"No","-",0,8380,0,0,2249,207,0
+"JA30Z","Unilateral Pedicled Myocutaneous Breast Reconstruction with or without Insertion of Prosthesis",11,13,"No","-",0,4196,0,0,3805,207,0
+"JA31Z","Bilateral Pedicled Myocutaneous Breast Reconstruction with or without Insertion of Prosthesis",15,15,"No","-",0,3607,0,0,3607,207,0
+"JC01A","Major Multiple Skin Procedures with Major CC",46,65,"No","-",0,6883,0,0,9315,207,0
+"JC01B","Major Multiple Skin Procedures with Intermediate CC",18,29,"No","-",0,3229,0,0,5073,207,0
+"JC01C","Major Multiple Skin Procedures without CC",5,16,"No","-",0,1450,0,0,3515,207,0
+"JC02A","Major Skin Procedures Category 2, with Major CC",25,44,"No","-",0,4538,0,0,6619,207,0
+"JC02B","Major Skin Procedures Category 2, with Intermediate CC",14,33,"No","-",0,3382,0,0,4299,207,0
+"JC02C","Major Skin Procedures Category 2, without CC",11,16,"No","-",0,2611,0,0,3166,207,0
+"JC03A","Major Skin Procedures Category 1, with Major CC",20,47,"No","-",0,3509,0,0,5470,207,0
+"JC03B","Major Skin Procedures Category 1, with Intermediate CC",5,16,"No","-",0,1942,0,0,2617,207,0
+"JC03C","Major Skin Procedures Category 1, without CC",5,6,"No","-",108,1233,0,0,1602,207,0
+"JC04A","Intermediate Skin Procedures Category 2, with Major CC",5,29,"No","-",0,1742,0,0,2959,207,0
+"JC04B","Intermediate Skin Procedures Category 2, with Intermediate CC",5,9,"No","-",0,1213,0,0,1496,207,0
+"JC04C","Intermediate Skin Procedures Category 2, without CC",5,5,"No","-",116,863,0,0,1257,207,0
+"JC05A","Intermediate Skin Procedures Category 1, with Major CC",5,5,"No","-",0,1047,0,0,889,207,0
+"JC05B","Intermediate Skin Procedures Category 1, with Intermediate CC",5,5,"No","-",0,1047,0,0,805,207,0
+"JC05C","Intermediate Skin Procedures Category 1, without CC",5,5,"No","-",129,957,0,0,819,207,0
+"JC06A","Minor Skin Procedures Category 2, with Major CC",5,5,"No","-",0,1237,0,0,1062,207,0
+"JC06B","Minor Skin Procedures Category 2, with Intermediate CC",5,5,"No","-",0,1211,0,0,1062,207,0
+"JC06C","Minor Skin Procedures Category 2, without CC",5,5,"No","-",0,1178,0,0,1062,207,0
+"JC07Z","Minor Skin Procedures Category 1",5,5,"No","-",0,1450,0,0,752,207,0
+"JC09Z","Patch Tests",5,5,"No","-",91,94,0,0,51,207,0
+"JC10Z","Specified Skin Examinations and Investigations",5,5,"No","-",137,142,0,0,307,207,0
+"JC11Z","Other Diagnostic Skin Tests",5,5,"No","-",161,167,0,0,300,207,0
+"JC12Z","Urticaria Tests",5,5,"No","-",0,432,0,0,497,207,0
+"JC13Z","Photo Tests",5,5,"No","-",0,517,0,0,517,207,0
+"JC14Z","Skin Therapies Level 2",5,5,"No","-",114,743,0,0,662,207,0
+"JC15Z","Skin Therapies Level 3",5,5,"No","-",125,568,0,0,688,207,0
+"JC16Z","Skin Therapies Level 4",5,5,"No","-",0,784,0,0,784,207,0
+"JC17Z","Skin Therapies Level 5",5,5,"No","-",0,952,0,0,956,207,0
+"JC18Z","Electrical and Other Invasive Therapy Level 2",5,5,"No","-",109,423,0,0,587,207,0
+"JC19D","Electrical and Other Invasive Therapy Level 4, 19 years and over",5,5,"No","-",135,140,0,0,384,207,0
+"JC19U","Electrical and Other Invasive Therapy Level 4, 18 years and under",5,5,"No","-",0,507,0,0,429,368,0
+"JC20Z","Electrical and Other Invasive Therapy Level 3",5,5,"No","-",109,109,0,0,622,207,0
+"JC27Z","Nursing Procedures or Dressings",5,5,"No","-",0,357,0,0,407,207,0
+"JD01A","Major Skin Disorders Category 2, with Major CC",45,49,"Yes","30%",0,3501,0,0,4156,207,1247
+"JD01B","Major Skin Disorders Category 2, with Intermediate CC",25,21,"Yes","30%",0,1962,0,0,2418,207,725
+"JD01C","Major Skin Disorders Category 2, without CC",5,15,"Yes","30%",0,564,0,0,1487,207,446
+"JD02A","Major Skin Disorders Category 1, with Major CC",33,44,"Yes","30%",0,2405,0,0,4214,207,1264
+"JD02B","Major Skin Disorders Category 1, with Intermediate CC",30,26,"Yes","30%",0,2221,0,0,2972,207,892
+"JD02C","Major Skin Disorders Category 1, without CC",5,19,"Yes","30%",0,295,0,0,2723,207,816
+"JD03A","Intermediate Skin Disorders Category 2, with Major CC",20,30,"Yes","30%",0,1722,0,0,2879,207,863
+"JD03B","Intermediate Skin Disorders Category 2, with Intermediate CC",8,14,"No","-",0,1138,0,0,1230,207,0
+"JD03C","Intermediate Skin Disorders Category 2, without CC",5,8,"No","-",0,881,0,0,815,207,0
+"JD04A","Intermediate Skin Disorders Category 1, with Major CC",13,17,"Yes","30%",0,1644,0,0,2245,207,673
+"JD04B","Intermediate Skin Disorders Category 1, with Intermediate CC",5,9,"No","-",0,993,0,0,1168,207,0
+"JD04C","Intermediate Skin Disorders Category 1, without CC",5,5,"No","-",0,658,0,0,838,207,0
+"JD05A","Minor Skin Disorders Category 2, with Major CC",10,10,"Yes","40%",0,1693,0,0,1603,207,641
+"JD05B","Minor Skin Disorders Category 2, with Intermediate CC",5,5,"Yes","65%",0,1060,0,0,849,207,552
+"JD05C","Minor Skin Disorders Category 2, without CC",5,5,"Yes","100%",0,725,0,0,474,207,474
+"JD06A","Minor Skin Disorders Category 1, with CC",8,8,"Yes","40%",0,1184,0,0,1454,207,582
+"JD06B","Minor Skin Disorders Category 1, without CC",5,5,"Yes","100%",0,576,0,0,509,207,509
+"KA03A","Parathyroid Procedures with CC",5,51,"No","-",0,2227,0,0,6068,190,0
+"KA03B","Parathyroid Procedures without CC",5,51,"No","-",0,1855,0,0,2763,190,0
+"KA04Z","Adrenal Procedures",14,51,"No","-",0,3688,0,0,5843,190,0
+"KA05A","Anterior Pituitary Disorders with CC",5,20,"Yes","30%",0,485,0,0,2996,190,899
+"KA05B","Anterior Pituitary Disorders without CC",5,8,"Yes","40%",0,485,0,0,1064,190,425
+"KA06A","Non-Pituitary Neoplasia and Hypoplasia, with CC",8,32,"Yes","30%",0,1103,0,0,3282,190,985
+"KA06B","Non-Pituitary Neoplasia and Hypoplasia, without CC",8,6,"Yes","40%",0,1042,0,0,1573,190,629
+"KA07Z","Non-Surgical Thyroid Disorders",5,13,"Yes","30%",0,380,0,0,1912,190,574
+"KA08Z","Other Endocrine Disorders",5,14,"Yes","30%",0,517,0,0,1904,190,571
+"KA09A","Thyroid Procedures with CC",6,47,"No","-",0,2959,0,0,5811,190,0
+"KA09B","Thyroid Procedures without CC",5,14,"No","-",0,2393,0,0,2256,190,0
+"KB01A","Diabetes with Hypoglycaemic Disorders, 70 years and over",19,19,"Yes","30%",0,1468,0,0,2110,190,633
+"KB01B","Diabetes with Hypoglycaemic Disorders, 69 years and under",8,8,"Yes","40%",0,846,0,0,1364,190,545
+"KB02A","Diabetes with Hyperglycaemic Disorders, 70 years and over with Major CC",46,36,"Yes","30%",0,1247,0,0,3107,190,932
+"KB02B","Diabetes with Hyperglycaemic Disorders, 70 years and over with Intermediate CC",5,16,"Yes","30%",0,576,0,0,1906,190,571
+"KB02C","Diabetes with Hyperglycaemic Disorders, 70 years and over without CC",5,10,"Yes","40%",0,249,0,0,1360,190,544
+"KB02D","Diabetes with Hyperglycaemic Disorders, 69 years and under with Major CC",10,20,"Yes","30%",0,1620,0,0,2269,190,681
+"KB02E","Diabetes with Hyperglycaemic Disorders, 69 years and under with Intermediate CC",5,9,"Yes","40%",0,495,0,0,1224,190,489
+"KB02F","Diabetes with Hyperglycaemic Disorders, 69 years and under without CC",5,5,"Yes","65%",0,316,0,0,801,190,521
+"KB03A","Diabetes with Lower Limb Complications, with Major CC",30,48,"Yes","30%",0,1833,0,0,4305,190,1292
+"KB03B","Diabetes with Lower Limb Complications, without Major CC",8,21,"Yes","30%",0,1139,0,0,2343,190,703
+"KB04Z","Continuous Subcutaneous Insulin Infusion",5,14,"No","-",199,541,0,0,1461,190,0
+"KC04Z","Inborn Errors of Metabolism",5,13,"Yes","30%",0,238,0,0,2350,190,704
+"KC05A","Fluid and Electrolyte Disorders, 70 years and over with Major CC",25,38,"Yes","30%",0,1866,0,0,3124,190,937
+"KC05B","Fluid and Electrolyte Disorders, 70 years and over with Intermediate CC",5,16,"Yes","30%",0,400,0,0,1896,190,569
+"KC05C","Fluid and Electrolyte Disorders, 70 years and over without CC",5,8,"Yes","40%",0,279,0,0,1117,190,447
+"KC05D","Fluid and Electrolyte Disorders, 69 years and under with Major CC",8,25,"Yes","30%",0,1069,0,0,2669,190,801
+"KC05E","Fluid and Electrolyte Disorders, 69 years and under with Intermediate CC",5,9,"Yes","40%",0,405,0,0,1465,190,586
+"KC05F","Fluid and Electrolyte Disorders, 69 years and under without CC",5,5,"Yes","100%",0,335,0,0,471,190,471
+"LA04D","Kidney or Urinary Tract Infections, with length of stay 2 days or more, with Major CC",43,43,"No","-",0,3604,0,0,3604,200,0
+"LA04E","Kidney or Urinary Tract Infections, with length of stay 2 days or more, with Intermediate CC",15,18,"No","-",0,2171,0,0,2023,200,0
+"LA04F","Kidney or Urinary Tract Infections, with length of stay 2 days or more, without CC",10,10,"No","-",0,1331,0,0,1331,200,0
+"LA04G","Kidney or Urinary Tract Infections, with length of stay 1 day or less",5,5,"Yes","100%",0,353,0,0,423,200,423
+"LA05Z","Renal Replacement Peritoneal Dialysis Associated Procedures",5,5,"No","-",0,1081,0,0,621,200,0
+"LA07C","Acute Kidney Injury without CC",10,14,"Yes","30%",0,905,0,0,1759,200,527
+"LA07D","Acute Kidney Injury with Interventions, with Major CC",57,57,"Yes","30%",0,5850,0,0,5850,200,1755
+"LA07E","Acute Kidney Injury without Interventions, with Major CC",44,34,"Yes","30%",0,2724,0,0,3332,200,999
+"LA07F","Acute Kidney Injury with Interventions, with Intermediate CC",31,31,"Yes","30%",0,3695,0,0,3695,200,1109
+"LA07G","Acute Kidney Injury without Interventions, with Intermediate CC",15,17,"Yes","30%",0,1535,0,0,2086,200,626
+"LA08A","Chronic Kidney Disease with length of stay 2 days or more, with Major CC",31,40,"No","-",0,3576,0,0,3907,200,0
+"LA08B","Chronic Kidney Disease with length of stay 2 days or more, with Intermediate CC",7,18,"No","-",0,2326,0,0,2445,200,0
+"LA08C","Chronic Kidney Disease with length of stay 2 days or more, without CC",5,15,"No","-",0,2103,0,0,2445,200,0
+"LA08E","Chronic Kidney Disease with length of stay 1 day or less, associated with Renal Dialysis",5,5,"No","-",0,0,0,0,0,0,0
+"LA08F","Chronic Kidney Disease with length of stay 1 day or less, not associated with Renal Dialysis",5,5,"Yes","100%",0,240,0,0,449,200,449
+"LA09E","General Renal Disorders with length of stay 2 days or more, with Major CC",30,29,"No","-",0,3477,0,0,3036,200,0
+"LA09F","General Renal Disorders with length of stay 2 days or more, with Intermediate CC",10,11,"No","-",0,2143,0,0,1663,200,0
+"LA09G","General Renal Disorders with length of stay 2 days or more, without CC",7,7,"No","-",0,1928,0,0,1254,200,0
+"LA09H","General Renal Disorders with length of stay 1 day or less",5,5,"Yes","100%",0,280,0,0,440,200,440
+"LB01A","Percutaneous Nephrostomy with CC",14,36,"No","-",0,2659,0,0,4684,200,0
+"LB01B","Percutaneous Nephrostomy without CC",10,16,"No","-",0,2008,0,0,2315,200,0
+"LB05A","Intermediate Percutaneous Kidney or Ureter Procedures, 19 years and over, with Major CC",16,38,"No","-",0,2683,0,0,4479,200,0
+"LB05B","Intermediate Percutaneous Kidney or Ureter Procedures, 19 years and over, with Intermediate CC",5,16,"No","-",0,1407,0,0,2202,200,0
+"LB05C","Intermediate Percutaneous Kidney or Ureter Procedures, 19 years and over, without CC",5,9,"No","-",0,1407,0,0,1432,200,0
+"LB05D","Intermediate Percutaneous Kidney or Ureter Procedures, 18 years and under",5,14,"No","-",0,2371,0,0,3903,369,0
+"LB06D","Kidney, Urinary Tract or Prostate Neoplasms, with length of stay 2 days or more, with Major CC",34,41,"No","-",0,3394,0,0,4052,200,0
+"LB06E","Kidney, Urinary Tract or Prostate Neoplasms, with length of stay 2 days or more, with Intermediate CC",7,21,"No","-",0,1825,0,0,2330,200,0
+"LB06F","Kidney, Urinary Tract or Prostate Neoplasms, with length of stay 2 days or more, without CC",5,13,"No","-",0,1454,0,0,1796,200,0
+"LB06G","Kidney, Urinary Tract or Prostate Neoplasms, with length of stay 1 day or less",5,5,"Yes","100%",0,333,0,0,569,200,569
+"LB09C","Intermediate Endoscopic Ureter Procedures, 18 years and under",5,5,"No","-",0,1034,0,0,1602,369,0
+"LB09D","Intermediate Endoscopic Ureter Procedures, 19 years and over",5,5,"No","-",0,739,0,0,1095,200,0
+"LB10A","Major Open Bladder Procedures or Reconstruction, 19 years and over",27,16,"No","-",0,4785,0,0,3706,200,0
+"LB10B","Major Open Bladder Procedures or Reconstruction, 18 years and under",16,25,"No","-",0,4950,0,0,4411,369,0
+"LB12Z","Intermediate Open Bladder Procedures",9,28,"No","-",0,2456,0,0,3672,200,0
+"LB13A","Major Endoscopic Bladder Procedures with CC",5,41,"No","-",0,1592,0,0,5213,200,0
+"LB13B","Major Endoscopic Bladder Procedures without CC",5,17,"No","-",0,1374,0,0,2667,200,0
+"LB14Z","Intermediate Endoscopic Bladder Procedures",5,5,"No","-",837,479,0,0,878,200,0
+"LB15D","Minor Bladder Procedures, 18 years and under",5,5,"No","-",0,694,0,0,659,369,0
+"LB15E","Minor Bladder Procedures, 19 years and over",5,5,"No","-",271,296,0,0,497,200,0
+"LB16A","Urinary Incontinence or Other Urinary Problems, with Major CC",18,25,"Yes","30%",0,2017,0,0,2405,200,722
+"LB16B","Urinary Incontinence or Other Urinary Problems, with Intermediate CC",8,9,"No","-",0,994,0,0,985,200,0
+"LB16C","Urinary Incontinence or Other Urinary Problems, without CC",5,8,"No","-",0,619,0,0,579,200,0
+"LB17Z","Introduction of Therapeutic Substance into Bladder",5,5,"No","-",184,200,0,0,570,200,0
+"LB18Z","Attention to Suprapubic Bladder Catheter",5,5,"No","-",0,359,0,0,507,200,0
+"LB19A","Ureteric or Bladder Disorders, with CC",8,17,"Yes","30%",0,1345,0,0,2216,200,665
+"LB19B","Ureteric or Bladder Disorders, without CC",5,8,"Yes","65%",0,776,0,0,983,200,639
+"LB20A","Infection or Mechanical Problems Related to Genito-Urinary Prostheses, Implants or Grafts, with CC",9,11,"Yes","30%",0,1740,0,0,1716,200,515
+"LB20B","Infection or Mechanical Problems Related to Genito-Urinary Prostheses, Implants or Grafts, without CC",5,5,"Yes","100%",0,1142,0,0,610,200,610
+"LB21Z","Major Open Prostate or Bladder Neck Procedures (Male)",10,27,"No","-",0,4129,0,0,4813,200,0
+"LB22Z","Major Laparoscopic Prostate or Bladder Neck Procedures (Male)",5,45,"No","-",0,4340,0,0,4291,200,0
+"LB25A","Transurethral Prostate Resection Procedures with Major CC",12,50,"No","-",0,2692,0,0,6574,200,0
+"LB25B","Transurethral Prostate Resection Procedures with Intermediate CC",5,25,"No","-",0,0,1907,1703,3661,200,0
+"LB25C","Transurethral Prostate Resection Procedures without CC",5,15,"No","-",0,0,1821,1617,2836,200,0
+"LB26Z","Intermediate Endoscopic Prostate or Bladder Neck Procedures (Male and Female)",5,20,"No","-",0,1231,0,0,2522,200,0
+"LB27Z","Minor Endoscopic Prostate or Bladder Neck Procedures (Male)",5,5,"No","-",328,0,359,1087,569,200,0
+"LB28A","Non-Malignant Prostate Disorders with CC",8,12,"Yes","30%",0,1040,0,0,1646,200,494
+"LB28B","Non-Malignant Prostate Disorders without CC",5,6,"Yes","65%",0,674,0,0,938,200,609
+"LB29A","Major Open Urethra Procedures, 19 years and over",6,6,"No","-",0,2901,0,0,2901,200,0
+"LB29C","Major Open Urethra Procedures, between 2 and 18 years",5,6,"No","-",0,2044,0,0,1172,369,0
+"LB29D","Major Open Urethra Procedures, 1 year and under",5,23,"No","-",0,1849,0,0,3999,369,0
+"LB33Z","Vasectomy Procedures",5,5,"Yes","100%",0,634,0,0,572,200,572
+"LB35A","Scrotum, Testis or Vas Deferens Disorders with CC",9,10,"Yes","40%",0,1484,0,0,1590,200,636
+"LB35B","Scrotum, Testis or Vas Deferens Disorders without CC",8,5,"Yes","100%",0,952,0,0,538,200,538
+"LB36Z","Extracorporeal Lithotripsy",5,5,"No","-",0,423,0,0,574,200,0
+"LB37A","Miscellaneous Urinary Tract Findings with CC",5,8,"Yes","40%",0,772,0,0,1395,200,558
+"LB37B","Miscellaneous Urinary Tract Findings without CC",5,5,"Yes","100%",0,342,0,0,512,200,512
+"LB38A","Unspecified Haematuria with Major CC",18,20,"Yes","30%",0,1939,0,0,2245,200,673
+"LB38B","Unspecified Haematuria without Major CC",5,10,"Yes","40%",0,711,0,0,1319,200,527
+"LB39A","Cystectomy with Urinary Diversion and Reconstruction, with CC",28,50,"No","-",0,8910,0,0,8409,200,0
+"LB39B","Cystectomy with Urinary Diversion and Reconstruction, without CC",21,25,"No","-",0,7208,0,0,4675,200,0
+"LB40A","Urinary Tract Stone Disease with CC",8,6,"No","-",0,1466,0,0,781,200,0
+"LB40B","Urinary Tract Stone Disease without CC",5,5,"No","-",0,828,0,0,464,200,0
+"LB42A","Dynamic Studies of Urinary Tract, 19 years and over",5,5,"No","-",257,276,0,0,473,200,0
+"LB42B","Dynamic Studies of Urinary Tract, between 2 and 18 years",5,5,"No","-",0,418,0,0,892,369,0
+"LB42C","Dynamic Studies of Urinary Tract, 1 year and under",5,5,"No","-",0,397,0,0,903,369,0
+"LB43Z","Treatment of Erectile Dysfunction",5,5,"No","-",0,312,0,0,555,200,0
+"LB47Z","Major Open Penis Procedures",11,6,"No","-",0,3728,0,0,2688,200,0
+"LB48Z","Intermediate Open Penis Procedures",5,16,"No","-",0,1850,0,0,2854,200,0
+"LB49Z","High Intensity Focused Ultrasound (Male and Female)",5,45,"No","-",0,1669,0,0,2326,200,0
+"LB50Z","Implantation of Artificial Urinary Sphincter (Male and Female)",5,20,"No","-",0,8180,0,0,8180,200,0
+"LB51Z","Vaginal Tape Operations for Urinary Incontinence",5,6,"No","-",0,0,1110,907,1285,200,0
+"LB52Z","Major Open Scrotum, Testis or Vas Deferens Procedures",5,21,"No","-",0,1410,0,0,3018,200,0
+"LB53A","Intermediate Open Scrotum, Testis or Vas Deferens Procedures, 19 years and over",5,11,"No","-",0,1262,0,0,2376,200,0
+"LB53B","Intermediate Open Scrotum, Testis or Vas Deferens Procedures, 18 years and under",5,5,"No","-",0,1278,0,0,1543,369,0
+"LB54A","Minor Scrotum, Testis or Vas Deferens Procedures, 19 years and over",5,5,"No","-",0,917,0,0,1121,200,0
+"LB54C","Minor Scrotum, Testis or Vas Deferens Procedures, between 2 and 18 years",5,5,"No","-",0,1192,0,0,1191,369,0
+"LB54D","Minor Scrotum, Testis or Vas Deferens Procedures, 1 year and under",5,5,"No","-",0,1270,0,0,1312,369,0
+"LB55A","Minor or Intermediate Urethra Procedures, 19 years and over",5,5,"No","-",0,636,0,0,837,200,0
+"LB55B","Minor or Intermediate Urethra Procedures, 18 years and under",5,5,"No","-",0,829,0,0,1441,369,0
+"LB56A","Minor Penis Procedures, 19 years and over",5,5,"No","-",0,767,0,0,659,200,0
+"LB56C","Minor Penis Procedures, between 2 and 18 years",5,5,"No","-",0,851,0,0,926,369,0
+"LB56D","Minor Penis Procedures, 1 year and under",5,5,"No","-",0,876,0,0,1242,369,0
+"LB57A","Urethral Disorders with CC",5,15,"Yes","30%",0,1527,0,0,2170,200,651
+"LB57B","Urethral Disorders without CC",5,8,"Yes","65%",0,1091,0,0,1157,200,752
+"LB58A","Penile Disorders with CC",8,10,"Yes","40%",0,1253,0,0,1623,200,650
+"LB58B","Penile Disorders without CC",5,5,"Yes","100%",0,745,0,0,555,200,555
+"LB59Z","Major Open or Laparoscopic Bladder Neck Procedures (Female)",11,35,"No","-",0,2874,0,0,2450,200,0
+"LB60A","Complex Open or Laparoscopic, Kidney or Ureter Procedures, with Major CC",43,61,"No","-",0,8585,0,0,8951,200,0
+"LB60B","Complex Open or Laparoscopic, Kidney or Ureter Procedures, without Major CC",16,33,"No","-",0,4502,0,0,5488,200,0
+"LB61A","Major Open Kidney or Ureter Procedures, 19 years and over with Major CC",26,57,"No","-",0,6131,0,0,6639,200,0
+"LB61B","Major Open Kidney or Ureter Procedures, 19 years and over without Major CC",15,26,"No","-",0,3802,0,0,3968,200,0
+"LB62A","Major Laparoscopic Kidney or Ureter Procedures, 19 years and over with CC",11,33,"No","-",0,4421,0,0,5154,200,0
+"LB62B","Major Laparoscopic Kidney or Ureter Procedures, 19 years and over without CC",7,33,"No","-",0,3859,0,0,5154,200,0
+"LB63A","Major Open or Laparoscopic, Kidney or Ureter Procedures, 18 years and under with CC",12,54,"No","-",0,5601,0,0,10712,369,0
+"LB63B","Major Open or Laparoscopic, Kidney or Ureter Procedures, 18 years and under without CC",5,16,"No","-",0,3763,0,0,4977,369,0
+"LB64A","Complex Endoscopic Kidney or Ureter Procedures, 19 years and over with Major CC",17,47,"No","-",0,3224,0,0,6289,200,0
+"LB64B","Complex Endoscopic Kidney or Ureter Procedures, 19 years and over without Major CC",5,12,"No","-",0,1934,0,0,2517,200,0
+"LB65A","Major Endoscopic Kidney or Ureter Procedures, 19 years and over with Major CC",14,35,"No","-",0,2431,0,0,4524,200,0
+"LB65B","Major Endoscopic Kidney or Ureter Procedures, 19 years and over without Major CC",5,10,"No","-",0,1630,0,0,2185,200,0
+"LB66Z","Complex or Major Endoscopic, Kidney or Ureter Procedures, 18 years and under",5,9,"No","-",0,2797,0,0,2914,369,0
+"LB67A","Complex Open Bladder Procedures with Major CC",59,103,"No","-",0,11379,0,0,13945,200,0
+"LB67B","Complex Open Bladder Procedures without Major CC",25,50,"No","-",0,7153,0,0,9041,200,0
+"LB68Z","Complex Endoscopic Bladder Procedures",6,39,"No","-",0,2119,0,0,5064,200,0
+"LB69Z","Major Robotic Prostate or Bladder Neck Procedures (Male)",6,6,"No","-",0,4513,0,0,6554,200,0
+"LB70A","Complex Endoscopic Prostate or Bladder Neck Procedures (Male and Female) with CC",7,40,"No","-",0,2339,0,0,6522,200,0
+"LB70B","Complex Endoscopic Prostate or Bladder Neck Procedures (Male and Female) without CC",6,16,"No","-",0,2052,0,0,2846,200,0
+"LB71Z","Total Pelvic Exenteration",57,119,"No","-",0,12099,0,0,13282,200,0
+"LB72A","Diagnostic Flexible Cystoscopy, 19 years and over",5,5,"No","-",386,221,0,0,588,200,0
+"LB72B","Diagnostic Flexible Cystoscopy, 18 years and under",5,5,"No","-",0,680,0,0,1069,369,0
+"LB73Z","Diagnostic Flexible Cystoscopy using Photodynamic Fluorescence",5,5,"No","-",0,1135,0,0,470,200,0
+"LB74Z","Implantation of Penile Prosthesis",5,20,"No","-",0,8596,0,0,8622,200,0
+"MA01Z","Complex Open Upper or Lower Genital Tract Procedures",12,46,"No","-",0,3995,0,0,6382,249,0
+"MA02Z","Very Major Open Upper or Lower Genital Tract Procedures",7,19,"No","-",0,3115,0,0,4646,249,0
+"MA03A","Major Open Lower Genital Tract Procedures with CC",5,23,"No","-",0,2276,0,0,2941,249,0
+"MA03B","Major Open Lower Genital Tract Procedures without CC",6,6,"No","-",0,2032,0,0,1604,249,0
+"MA04A","Intermediate Open Lower Genital Tract Procedures with CC",6,8,"No","-",0,1803,0,0,2012,249,0
+"MA04B","Intermediate Open Lower Genital Tract Procedures without CC",5,5,"No","-",0,1595,0,0,1430,249,0
+"MA06Z","Major Open or Laparoscopic, Upper or Lower Genital Tract Procedures for Malignancy",7,27,"No","-",0,2968,0,0,4713,249,0
+"MA07C","Major Open Upper Genital Tract Procedures with Major CC",11,38,"No","-",0,3631,0,0,5731,249,0
+"MA07D","Major Open Upper Genital Tract Procedures without Major CC",5,7,"No","-",0,2751,0,0,2908,249,0
+"MA08Z","Major Laparoscopic or Endoscopic, Upper Genital Tract Procedures",5,5,"No","-",0,2174,0,0,2126,249,0
+"MA09Z","Intermediate Laparoscopic or Endoscopic, Upper Genital Tract Procedures",5,6,"No","-",0,1559,0,0,2483,249,0
+"MA10Z","Minor Laparoscopic or Endoscopic, Upper Genital Tract Procedures",5,5,"No","-",1083,954,0,0,1609,249,0
+"MA11Z","Intermediate Open Upper Genital Tract Procedures",5,10,"No","-",0,1856,0,0,2739,249,0
+"MA12Z","Resection or Ablation Procedures for Intra-uterine Lesions",5,5,"No","-",0,892,0,0,939,249,0
+"MA17C","Dilation and Evacuation, less than 14 weeks gestation",5,5,"No","-",0,689,0,0,1018,249,0
+"MA17D","Dilation and Evacuation, 14 to 20 weeks gestation",5,5,"No","-",0,568,0,0,1414,249,0
+"MA18C","Medical Termination of Pregnancy, less than 14 weeks gestation",5,5,"Yes","100%",0,391,0,0,624,249,624
+"MA18D","Medical Termination of Pregnancy, 14 to 20 weeks gestation",5,5,"Yes","100%",0,491,0,0,1013,249,1013
+"MA19A","Vacuum Aspiration with Cannula, less than 14 weeks gestation",5,5,"No","-",0,612,0,0,953,249,0
+"MA19B","Vacuum Aspiration with Cannula, 14 to 20 weeks gestation",5,5,"No","-",0,666,0,0,1309,249,0
+"MA20Z","Medical or Surgical Termination of Pregnancy, over 20 weeks gestation",5,5,"No","-",0,611,0,0,1368,249,0
+"MA21Z","Diagnostic Hysteroscopy",5,5,"No","-",494,282,0,0,581,249,0
+"MA22Z","Minor Lower Genital Tract Procedures Category 1",5,5,"No","-",0,786,0,0,960,249,0
+"MA23Z","Minor Lower Genital Tract Procedures Category 2",5,5,"No","-",132,510,0,0,429,249,0
+"MA24Z","Minor Upper Genital Tract Procedures Category 1",5,5,"No","-",0,870,0,0,795,249,0
+"MA25Z","Minor Upper Genital Tract Procedures Category 2",5,5,"No","-",124,591,0,0,579,249,0
+"MA26Z","Complex Open or Laparoscopic, Upper or Lower Genital Tract Procedures for Malignancy",11,26,"No","-",0,3939,0,0,5849,249,0
+"MA27Z","Minor Upper or Lower Genital Tract Procedures for Malignancy",5,5,"No","-",0,924,0,0,885,249,0
+"MA28Z","Complex Laparoscopic or Endoscopic, Upper Genital Tract Procedures",6,19,"No","-",0,2772,0,0,3808,249,0
+"MA29Z","Major Female Pelvic Peritoneum Adhesion Procedures",5,15,"No","-",0,1650,0,0,3267,249,0
+"MA30Z","Intermediate Female Pelvic Peritoneum Adhesion Procedures",5,5,"No","-",0,1216,0,0,1427,249,0
+"MB01A","Lower Genital Tract Disorders with CC",5,10,"Yes","40%",0,1490,0,0,1506,249,602
+"MB01B","Lower Genital Tract Disorders without CC",5,5,"Yes","100%",0,905,0,0,677,249,677
+"MB02Z","Genital Prolapse or Incontinence",8,13,"Yes","40%",0,1239,0,0,1604,249,641
+"MB03A","Uterus Disorders (including Fibroids), Menstrual Disorders or Endometriosis, with CC",5,8,"Yes","40%",0,1463,0,0,1508,249,603
+"MB03B","Uterus Disorders (including Fibroids), Menstrual Disorders or Endometriosis, without CC",5,5,"Yes","100%",0,883,0,0,590,249,590
+"MB04A","Ovary, Fallopian Tube or Pelvic Disorders, with CC",5,12,"Yes","30%",0,1890,0,0,1986,249,595
+"MB04B","Ovary, Fallopian Tube or Pelvic Disorders, without CC",5,6,"Yes","65%",0,1073,0,0,1172,249,761
+"MB05A","Gynaecological Malignancy with length of stay 1 day or more",9,28,"Yes","30%",0,1636,0,0,3286,249,986
+"MB05B","Gynaecological Malignancy with length of stay 0 days",5,5,"Yes","100%",0,294,0,0,439,249,439
+"MB06Z","Other Gynaecological Conditions",5,8,"Yes","65%",0,1039,0,0,1092,249,709
+"MB07Z","Gynaecological Fistula Conditions",7,24,"Yes","30%",0,1903,0,0,2878,249,863
+"MB08Z","Threatened or Spontaneous Miscarriage",5,5,"Yes","100%",0,454,0,0,466,249,466
+"PA01A","Nervous System Disorders with CC",5,10,"No","-",0,1056,0,0,1831,288,0
+"PA01B","Nervous System Disorders without CC",5,5,"No","-",0,778,0,0,713,288,0
+"PA02A","Epilepsy Syndrome with CC",5,5,"No","-",0,1300,0,0,1061,288,0
+"PA02B","Epilepsy Syndrome without CC",5,5,"No","-",0,916,0,0,739,288,0
+"PA03A","Febrile Convulsions, under 1 year",5,5,"No","-",0,731,0,0,878,288,0
+"PA03B","Febrile Convulsions, 1 year and over",5,5,"No","-",0,659,0,0,584,288,0
+"PA04A","Headaches and Migraines, with CC",5,5,"No","-",0,883,0,0,697,288,0
+"PA04B","Headaches and Migraines, without CC",5,5,"No","-",0,673,0,0,550,288,0
+"PA06Z","Head Injury with Intracranial Injury",5,9,"No","-",0,772,0,0,1776,288,0
+"PA07A","Head Injury without Intracranial Injury, with CC",5,5,"No","-",0,967,0,0,602,288,0
+"PA07B","Head Injury without Intracranial Injury, without CC",5,5,"No","-",0,661,0,0,505,288,0
+"PA08A","Intermediate Injury without Intracranial Injury, with CC",5,5,"No","-",0,1910,0,0,1031,288,0
+"PA08B","Intermediate Injury without Intracranial Injury, without CC",5,5,"No","-",0,741,0,0,838,288,0
+"PA11Z","Acute Upper Respiratory Tract Infection and Common Cold",5,5,"No","-",0,566,0,0,484,288,0
+"PA12Z","Asthma or Wheezing",5,5,"No","-",0,599,0,0,702,288,0
+"PA14C","Lower Respiratory Tract Disorders without Acute Bronchiolitis, with length of stay 1 day or more, with CC",20,12,"No","-",0,4871,0,0,2240,288,0
+"PA14D","Lower Respiratory Tract Disorders without Acute Bronchiolitis, with length of stay 1 day or more, without CC",11,6,"No","-",0,2630,0,0,1082,288,0
+"PA14E","Lower Respiratory Tract Disorders without Acute Bronchiolitis, with length of stay 0 days",5,5,"No","-",0,504,0,0,399,288,0
+"PA15A","Acute Bronchiolitis with CC",13,11,"No","-",0,2618,0,0,1808,288,0
+"PA15B","Acute Bronchiolitis without CC",5,5,"No","-",0,939,0,0,858,288,0
+"PA16A","Major Infections with CC",5,10,"No","-",0,1619,0,0,1740,288,0
+"PA16B","Major Infections without CC",5,5,"No","-",0,617,0,0,809,288,0
+"PA17A","Intermediate Infections with CC",5,8,"No","-",0,1121,0,0,1261,288,0
+"PA17B","Intermediate Infections without CC",5,5,"No","-",0,519,0,0,799,288,0
+"PA18A","Minor Infections with CC",5,5,"No","-",0,845,0,0,960,288,0
+"PA18B","Minor Infections without CC",5,5,"No","-",0,417,0,0,525,288,0
+"PA19A","Viral Infections with length of stay 1 day or less",5,5,"No","-",0,435,0,0,455,288,0
+"PA19B","Viral Infections with length of stay 2 days or more",5,5,"No","-",0,1654,0,0,1282,288,0
+"PA20A","Fever Unspecified with CC",5,5,"No","-",0,970,0,0,1008,288,0
+"PA20B","Fever Unspecified without CC",5,5,"No","-",0,369,0,0,599,288,0
+"PA21A","Infectious or Non-Infectious Gastroenteritis, with CC",8,5,"No","-",0,1728,0,0,913,288,0
+"PA21B","Infectious or Non-Infectious Gastroenteritis, without CC",5,5,"No","-",0,646,0,0,558,288,0
+"PA22Z","Chest Pain",5,5,"No","-",0,841,0,0,459,288,0
+"PA23A","Cardiac Conditions with CC",5,16,"No","-",0,1445,0,0,3257,288,0
+"PA23B","Cardiac Conditions without CC",5,8,"No","-",0,970,0,0,1217,288,0
+"PA24Z","Arrhythmia or Conduction Disorders",5,5,"No","-",0,1429,0,0,737,288,0
+"PA25A","Major Gastrointestinal Disorders with CC",8,13,"No","-",0,2270,0,0,2650,288,0
+"PA25B","Major Gastrointestinal Disorders without CC",5,5,"No","-",0,1352,0,0,1103,288,0
+"PA26A","Other Gastrointestinal Disorders with CC",5,5,"No","-",0,1487,0,0,1054,288,0
+"PA26B","Other Gastrointestinal Disorders without CC",5,5,"No","-",0,835,0,0,589,288,0
+"PA27Z","Inflammatory Bowel Disease",5,14,"No","-",0,637,0,0,1959,288,0
+"PA28A","Feeding Difficulties and Vomiting, with CC",10,5,"No","-",0,2099,0,0,1024,288,0
+"PA28B","Feeding Difficulties and Vomiting, without CC",5,5,"No","-",0,828,0,0,551,288,0
+"PA29Z","Abdominal Pain",5,5,"No","-",0,691,0,0,580,288,0
+"PA30A","Faltering Growth (Failure to Thrive) with CC",5,14,"No","-",0,1161,0,0,2157,288,0
+"PA30B","Faltering Growth (Failure to Thrive) without CC",5,5,"No","-",0,673,0,0,779,288,0
+"PA31Z","Major Injury without Intracranial Injury",14,26,"No","-",0,1653,0,0,3094,288,0
+"PA32A","Minor Injury without Intracranial Injury, with CC",5,5,"No","-",0,636,0,0,642,288,0
+"PA32B","Minor Injury without Intracranial Injury, without CC",5,5,"No","-",0,636,0,0,543,288,0
+"PA34A","Musculoskeletal or Connective Tissue Disorders, with CC",5,5,"No","-",0,988,0,0,967,288,0
+"PA34B","Musculoskeletal or Connective Tissue Disorders, without CC",5,5,"No","-",0,688,0,0,648,288,0
+"PA35A","Skin Disorders with CC",5,8,"No","-",0,955,0,0,1189,288,0
+"PA35B","Skin Disorders without CC",5,5,"No","-",0,608,0,0,602,288,0
+"PA36Z","Endocrine Disorders, excluding Diabetes Mellitus",5,8,"No","-",0,703,0,0,1120,288,0
+"PA38C","Renal Disease with Renal Failure, with length of stay 0 days",5,5,"No","-",0,504,0,0,592,288,0
+"PA38D","Renal Disease with Renal Failure, with length of stay 1 day or more",9,14,"No","-",0,3546,0,0,2605,288,0
+"PA40A","Acute Lymphoblastic Leukaemia with length of stay 1 day or more, with CC",25,22,"No","-",0,7577,0,0,5297,288,0
+"PA40B","Acute Lymphoblastic Leukaemia with length of stay 1 day or more, without CC",11,14,"No","-",0,4103,0,0,3462,288,0
+"PA41Z","Other Haematological Malignancies with length of stay 1 day or more",51,35,"No","-",0,8875,0,0,7164,288,0
+"PA42Z","Brain Tumours with length of stay 1 day or more",9,9,"No","-",0,3052,0,0,2782,288,0
+"PA43A","Other Neoplasms with length of stay 1 day or more, with CC",10,15,"No","-",0,3390,0,0,4092,288,0
+"PA43B","Other Neoplasms with length of stay 1 day or more, without CC",7,10,"No","-",0,2600,0,0,2395,288,0
+"PA44Z","Neoplasm Diagnoses with length of stay 0 days",5,5,"No","-",0,533,0,0,536,288,0
+"PA45Z","Febrile Neutropenia with Malignancy",46,12,"No","-",0,11292,0,0,3619,288,0
+"PA46Z","Paediatric Thalassaemia",5,5,"No","-",0,567,0,0,985,288,0
+"PA47Z","Sickle-cell Anaemia with Crisis",5,9,"No","-",0,815,0,0,1531,288,0
+"PA48A","Blood Cell Disorders with CC",5,11,"No","-",0,1343,0,0,2382,288,0
+"PA48B","Blood Cell Disorders without CC",5,5,"No","-",0,645,0,0,970,288,0
+"PA49Z","Coagulation Disorders",5,5,"No","-",0,550,0,0,637,288,0
+"PA50Z","Ingestion Poisoning or Allergies",5,5,"No","-",0,453,0,0,503,288,0
+"PA51Z","Child Safeguarding (welfare and protection)",5,5,"No","-",0,616,0,0,936,288,0
+"PA54Z","Convalescent or other Relief Care",5,5,"No","-",0,957,0,0,590,288,0
+"PA55Z","Respite Care",5,5,"No","-",0,1193,0,0,844,288,0
+"PA56A","Paediatric Admission for Unexplained Symptoms, with CC",5,5,"No","-",0,1112,0,0,751,288,0
+"PA56B","Paediatric Admission for Unexplained Symptoms, without CC",5,5,"No","-",0,706,0,0,552,288,0
+"PA57Z","Examination, Follow-up, Special Screening or other Admissions, with length of stay 1 day or more",5,5,"No","-",0,1766,0,0,826,288,0
+"PA58Z","Examination, Follow-up, Special Screening or other Admissions, with length of stay 0 days",5,5,"No","-",0,427,0,0,346,288,0
+"PA59C","Major Congenital Conditions, under 1 year, with CC",5,29,"No","-",0,1504,0,0,2734,288,0
+"PA59D","Major Congenital Conditions, under 1 year, without CC",5,5,"No","-",0,754,0,0,854,288,0
+"PA59E","Major Congenital Conditions, 1 year and over, with CC",5,13,"No","-",0,1174,0,0,2234,288,0
+"PA59F","Major Congenital Conditions, 1 year and over, without CC",5,5,"No","-",0,821,0,0,780,288,0
+"PA60C","Other Congenital Conditions, under 1 year, with CC",5,9,"No","-",0,970,0,0,1516,288,0
+"PA60D","Other Congenital Conditions, under 1 year, without CC",5,5,"No","-",0,664,0,0,546,288,0
+"PA60E","Other Congenital Conditions, 1 year and over, with CC",5,8,"No","-",0,952,0,0,1470,288,0
+"PA60F","Other Congenital Conditions, 1 year and over, without CC",5,5,"No","-",0,772,0,0,746,288,0
+"PA62Z","Syncope and Collapse",5,5,"No","-",0,679,0,0,502,288,0
+"PA63A","Head, Neck and Ear Disorders with length of stay 0 days",5,5,"No","-",0,511,0,0,351,288,0
+"PA63B","Head, Neck and Ear Disorders with length of stay 1 day or more, with CC",5,5,"No","-",0,1524,0,0,994,288,0
+"PA63C","Head, Neck and Ear Disorders with length of stay 1 day or more, without CC",5,5,"No","-",0,1402,0,0,720,288,0
+"PA64A","Non-Surgical Ophthalmology with length of stay 0 days",5,5,"No","-",0,552,0,0,355,288,0
+"PA64B","Non-Surgical Ophthalmology with length of stay 1 day or more, with CC",5,6,"No","-",0,1522,0,0,1274,288,0
+"PA64C","Non-Surgical Ophthalmology with length of stay 1 day or more, without CC",6,6,"No","-",0,1415,0,0,1120,288,0
+"PA65A","Upper Respiratory Tract Disorders with length of stay 0 days",5,5,"No","-",0,504,0,0,348,288,0
+"PA65B","Upper Respiratory Tract Disorders with length of stay 1 day or more, with CC",5,6,"No","-",0,1665,0,0,1425,288,0
+"PA65C","Upper Respiratory Tract Disorders with length of stay 1 day or more, without CC",5,5,"No","-",0,668,0,0,584,288,0
+"PA66Z","Rash or Other Non-Specific Skin Eruption",5,5,"No","-",0,356,0,0,491,288,0
+"PA67Z","Diabetes Mellitus, with Ketoacidosis or Coma",10,6,"No","-",0,1459,0,0,1055,288,0
+"PA68Z","Diabetes Mellitus, without Ketoacidosis or Coma",5,5,"No","-",0,1207,0,0,954,288,0
+"PA69Z","Nephritic and Nephrotic Renal Diseases",5,9,"No","-",0,662,0,0,1350,288,0
+"PA70Z","Other Renal Diseases",5,5,"No","-",0,687,0,0,577,288,0
+"PA71Z","Paediatric Hepatobiliary or Pancreatic Disorders",5,9,"No","-",0,2225,0,0,1760,288,0
+"PA72Z","Metabolic Disorders",5,9,"No","-",0,1922,0,0,2365,288,0
+"PB01Z","Major Neonatal Diagnoses",10,14,"No","-",0,1375,0,0,1148,288,0
+"PB02Z","Minor Neonatal Diagnoses",5,14,"No","-",0,404,0,0,770,288,0
+"PB03Z","Healthy Baby",5,5,"No","-",0,0,0,0,0,0,0
+"QZ01A","Aortic or Abdominal Surgery, with CC",24,50,"No","-",0,7157,0,0,8719,218,0
+"QZ01B","Aortic or Abdominal Surgery, without CC",14,25,"No","-",0,5380,0,0,5633,218,0
+"QZ02A","Lower Limb Arterial Surgery with CC",19,58,"No","-",0,6141,0,0,9116,218,0
+"QZ02B","Lower Limb Arterial Surgery without CC",11,25,"No","-",0,4461,0,0,5871,218,0
+"QZ03Z","Bypasses to Tibial Arteries",31,69,"No","-",0,8443,0,0,12510,218,0
+"QZ04Z","Extracranial or Upper Limb Arterial Surgery",5,27,"No","-",0,3801,0,0,5475,218,0
+"QZ05A","Miscellaneous Vascular Procedures with CC",5,32,"No","-",0,1533,0,0,4079,218,0
+"QZ05B","Miscellaneous Vascular Procedures without CC",5,14,"No","-",229,1084,0,0,2155,218,0
+"QZ11A","Amputations with Major CC",109,126,"No","-",0,13737,0,0,15871,218,0
+"QZ11B","Amputations without Major CC",50,86,"No","-",0,8599,0,0,11227,218,0
+"QZ12Z","Foot Procedures for Diabetes or Arterial Disease, or Procedures to Amputation Stumps",13,52,"No","-",0,2534,0,0,6716,218,0
+"QZ13A","Vascular Access for Renal Replacement Therapy, with CC",5,10,"No","-",0,1218,0,0,1222,218,0
+"QZ13B","Vascular Access for Renal Replacement Therapy, without CC",5,10,"No","-",0,1218,0,0,1222,218,0
+"QZ14A","Vascular Access except for Renal Replacement Therapy, with CC",5,8,"No","-",0,474,0,0,1127,218,0
+"QZ14B","Vascular Access except for Renal Replacement Therapy, without CC",5,5,"No","-",213,398,0,0,881,218,0
+"QZ15A","Therapeutic Endovascular Procedures with Major CC",62,94,"No","-",0,5243,0,0,8173,218,0
+"QZ15B","Therapeutic Endovascular Procedures with Intermediate CC",5,42,"No","-",0,1395,0,0,4873,218,0
+"QZ15C","Therapeutic Endovascular Procedures without CC",5,21,"No","-",0,807,0,0,3126,218,0
+"QZ16A","Diagnostic Vascular Radiology or other Transluminal Diagnostic Procedures, with Major CC",35,77,"No","-",0,5695,0,0,7121,218,0
+"QZ16B","Diagnostic Vascular Radiology or other Transluminal Diagnostic Procedures, with Intermediate CC",5,36,"No","-",0,1258,0,0,4090,218,0
+"QZ16C","Diagnostic Vascular Radiology or other Transluminal Diagnostic Procedures, without CC",5,19,"No","-",0,1059,0,0,2422,218,0
+"QZ17A","Non-Surgical Peripheral Vascular Disease with Major CC",52,52,"Yes","30%",0,3189,0,0,4583,218,1375
+"QZ17B","Non-Surgical Peripheral Vascular Disease with Intermediate CC",5,19,"Yes","30%",0,976,0,0,2676,218,803
+"QZ17C","Non-Surgical Peripheral Vascular Disease without CC",5,8,"Yes","40%",0,473,0,0,1509,218,603
+"QZ19Z","Blood Vessel Injury with No Significant Procedure",114,8,"Yes","40%",0,446,0,0,1684,218,674
+"QZ20Z","Deep Vein Thrombosis",5,10,"No","-",0,451,0,0,562,218,0
+"QZ21A","Re-do Varicose Vein Procedures with CC (includes Ulceration)",5,5,"No","-",0,1395,0,0,1395,218,0
+"QZ21B","Re-do Varicose Vein Procedures, without CC",5,5,"No","-",0,1356,0,0,1356,218,0
+"QZ22A","Primary Varicose Vein Procedures with CC (includes Ulceration)",5,41,"No","-",0,1209,0,0,4214,218,0
+"QZ22B","Primary Varicose Vein Procedures, without CC",5,10,"No","-",0,1049,0,0,1516,218,0
+"QZ23Z","Thoracoabdominal Aneurysm Repair",36,68,"No","-",0,12724,0,0,12270,218,0
+"RC01Z","Major Uroradiology Interventional Radiology Procedures",23,33,"No","-",0,2943,0,0,3925,227,0
+"RC02Z","Intermediate Uroradiology Interventional Radiology Procedures",5,33,"No","-",0,1169,0,0,3925,227,0
+"RC11A","Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm, One Branched Stent Graft",12,30,"No","-",0,4232,0,0,7332,227,0
+"RC11B","Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm, One Fenestrated Stent Graft",12,30,"No","-",0,4232,0,0,7332,227,0
+"RC11C","Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm, One Stent Graft",12,30,"No","-",0,4232,0,0,7748,227,0
+"RC11D","Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm, Two Stent Grafts",12,22,"No","-",0,4232,0,0,8109,227,0
+"RC11E","Endovascular Stent Graft for Ruptured Abdominal Aortic Aneurysm, Three or more Stent Grafts",12,27,"No","-",0,4232,0,0,9509,227,0
+"RC12A","Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, One Branched Stent Graft",11,35,"No","-",0,6137,0,0,6137,227,0
+"RC12B","Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, One Fenestrated Stent Graft",11,35,"No","-",0,6137,0,0,6137,227,0
+"RC12C","Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, One Stent Graft",11,35,"No","-",0,6137,0,0,6137,227,0
+"RC12D","Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, Two Stent Grafts",11,35,"No","-",0,6137,0,0,6137,227,0
+"RC12E","Infrarenal or Aorto-Uni-Iliac Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, Three or more Stent Grafts",11,35,"No","-",0,6137,0,0,6137,227,0
+"RC13A","Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, One Branched Stent Graft",16,42,"No","-",0,6137,0,0,6137,227,0
+"RC13B","Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, One Fenestrated Stent Graft",16,42,"No","-",0,6137,0,0,6137,227,0
+"RC13C","Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, One Stent Graft",16,42,"No","-",0,6137,0,0,6137,227,0
+"RC13D","Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, Two Stent Grafts",16,42,"No","-",0,6137,0,0,6137,227,0
+"RC13E","Other Endovascular Stent Graft for Non-Ruptured Abdominal Aortic Aneurysm, Three or more Stent Grafts",16,42,"No","-",0,6137,0,0,6137,227,0
+"RC14Z","Major Vascular Interventional Radiology Procedures",5,48,"No","-",0,1911,0,0,4601,227,0
+"RC15Z","Intermediate Vascular Interventional Radiology Procedures",16,48,"No","-",0,1245,0,0,4601,227,0
+"RC16Z","Minor Vascular Interventional Radiology Procedures",5,47,"No","-",0,997,0,0,4601,227,0
+"RC31Z","Major Hepatobiliary Interventional Radiology Procedures",40,40,"No","-",0,4024,0,0,4024,227,0
+"RC32Z","Intermediate Hepatobiliary Interventional Radiology Procedures",40,40,"No","-",0,4024,0,0,4024,227,0
+"RC33Z","Minor Hepatobiliary Interventional Radiology Procedures",40,40,"No","-",0,4024,0,0,4024,227,0
+"RC41Z","Uterine Fibroid Embolisation",5,5,"No","-",0,2503,0,0,3653,227,0
+"RC42Z","Major Obstetric or Gynaecology, Interventional Radiology Procedures",26,28,"No","-",0,1626,0,0,5163,227,0
+"RC51Z","Major Neurology Interventional Radiology Procedures",10,35,"No","-",0,2169,0,0,7088,227,0
+"SA01D","Aplastic Anaemia with CC",18,18,"Yes","30%",0,2175,0,0,2645,232,793
+"SA01F","Aplastic Anaemia without CC",5,12,"Yes","30%",0,562,0,0,1943,232,583
+"SA02D","Coagulation Defect with CC",5,5,"Yes","30%",0,459,0,0,1187,232,357
+"SA02F","Coagulation Defect without CC",5,5,"Yes","100%",0,459,0,0,1187,232,1187
+"SA03D","Haemolytic Anaemia with CC",5,18,"No","-",0,467,0,0,2630,232,0
+"SA03F","Haemolytic Anaemia without CC",5,14,"No","-",0,386,0,0,1838,232,0
+"SA04D","Iron Deficiency Anaemia with CC",5,21,"No","-",0,391,0,0,1962,232,0
+"SA04F","Iron Deficiency Anaemia without CC",5,6,"No","-",0,288,0,0,827,232,0
+"SA05D","Megaloblastic Anaemia with CC",5,22,"No","-",0,450,0,0,1861,232,0
+"SA05F","Megaloblastic Anaemia without CC",5,11,"No","-",0,344,0,0,1143,232,0
+"SA06D","Myelodysplastic Syndrome with CC",5,25,"Yes","30%",0,614,0,0,3346,232,1004
+"SA06F","Myelodysplastic Syndrome without CC",5,13,"Yes","40%",0,286,0,0,2108,232,843
+"SA07D","Myeloproliferative Disorder with CC",5,20,"Yes","30%",0,345,0,0,3256,232,976
+"SA07F","Myeloproliferative Disorder without CC",5,5,"Yes","65%",0,281,0,0,855,232,556
+"SA08D","Other Haematological or Splenic Disorders, with CC",5,19,"Yes","30%",0,476,0,0,2526,232,758
+"SA08F","Other Haematological or Splenic Disorders, without CC",5,8,"Yes","40%",0,312,0,0,1473,232,589
+"SA09D","Other Red Blood Cell Disorders with CC",5,19,"Yes","30%",0,444,0,0,2269,232,681
+"SA09F","Other Red Blood Cell Disorders without CC",5,6,"Yes","40%",0,354,0,0,1313,232,525
+"SA10E","Sickle Cell Anaemia with Crisis, or with CC",5,13,"Yes","40%",0,906,0,0,1769,232,708
+"SA10F","Sickle Cell Anaemia without CC",5,5,"Yes","100%",0,428,0,0,622,232,622
+"SA11Z","Thalassaemia",5,5,"Yes","100%",0,367,0,0,693,232,693
+"SA12D","Thrombocytopenia with CC",5,16,"Yes","30%",0,386,0,0,2688,232,807
+"SA12F","Thrombocytopenia without CC",5,9,"Yes","40%",0,382,0,0,1898,232,759
+"SA13A","Single Plasma Exchange, Leucophoresis or Red Cell Exchange, with length of stay 2 days or less, 19 years and over",5,5,"No","-",142,412,0,0,623,232,0
+"SA13B","Single Plasma Exchange, Leucophoresis or Red Cell Exchange, with length of stay 2 days or less, 18 years and under",5,5,"No","-",171,593,0,0,592,232,0
+"SA14Z","Plasma Exchanges 2 to 9",18,45,"No","-",0,3149,0,0,7656,232,0
+"SA15Z","Plasma Exchanges 10 to 19",18,55,"No","-",0,3149,0,0,13127,232,0
+"SA16Z","Plasma Exchanges 20 or more",18,55,"No","-",0,3149,0,0,13127,232,0
+"SA17D","Malignant Disorders of Lymphatic or Haematological Systems, with CC",5,26,"Yes","30%",0,392,0,0,3408,232,1022
+"SA17F","Malignant Disorders of Lymphatic or Haematological Systems, without CC",5,5,"Yes","40%",0,368,0,0,1181,232,472
+"SA18Z","Bone Marrow Harvest",5,6,"No","-",0,1533,0,0,2209,232,0
+"SA24D","Acute Lymphoblastic Leukaemia with CC",5,65,"Yes","30%",0,1445,0,0,8515,232,2555
+"SA24F","Acute Lymphoblastic Leukaemia without CC",5,13,"Yes","30%",0,644,0,0,3635,232,1090
+"SA25D","Acute Myeloid Leukaemia with CC",25,54,"Yes","30%",0,3223,0,0,6926,232,2077
+"SA25F","Acute Myeloid Leukaemia without CC",5,20,"Yes","30%",0,634,0,0,4220,232,1266
+"SA30Z","Plasma Cell Disorders",5,30,"Yes","30%",0,345,0,0,4032,232,1210
+"SA31Z","Malignant Lymphoma, including Hodgkin's and non-Hodgkin's",5,29,"Yes","30%",0,759,0,0,3967,232,1191
+"SA32Z","Chronic Lymphocytic Leukaemia and Related Disorders",5,23,"Yes","30%",0,349,0,0,3505,232,1051
+"SA33Z","Diagnostic Bone Marrow Extraction",5,5,"No","-",0,434,0,0,557,232,0
+"SB97Z","Same Day Chemotherapy Admission or Attendance",5,5,"No","-",0,0,0,0,0,0,0
+"SC97Z","Same Day External Beam Radiotherapy Admission or Attendance",5,5,"No","-",0,0,0,0,0,0,0
+"UZ01Z","Data Invalid for Grouping",5,5,"No","-",0,0,0,0,0,0,0
+"VA10A","Multiple Trauma Diagnoses score <=23, with no Interventions",5,5,"Yes","40%",0,1296,0,0,1296,211,518
+"VA10B","Multiple Trauma Diagnoses score 24-32, with no Interventions",21,21,"Yes","30%",0,1824,0,0,1824,211,547
+"VA10C","Multiple Trauma Diagnoses score 33-50, with no Interventions",37,37,"Yes","30%",0,3639,0,0,3639,211,1092
+"VA10D","Multiple Trauma Diagnoses score >=51, with no Interventions",66,66,"Yes","30%",0,6022,0,0,6022,211,1807
+"VA11A","Multiple Trauma Diagnoses score <=23, with Interventions score 1-8",8,8,"No","-",0,1621,0,0,1621,211,0
+"VA11B","Multiple Trauma Diagnoses score 24-32, with Interventions score 1-8",16,16,"No","-",0,2261,0,0,2261,211,0
+"VA11C","Multiple Trauma Diagnoses score 33-50, with Interventions score 1-8",35,35,"No","-",0,3795,0,0,3795,211,0
+"VA11D","Multiple Trauma Diagnoses score >=51, with Interventions score 1-8",71,71,"No","-",0,7114,0,0,7114,211,0
+"VA12A","Multiple Trauma Diagnoses score <=23, with Interventions score 9-18",21,21,"No","-",0,3521,0,0,3521,211,0
+"VA12B","Multiple Trauma Diagnoses score 24-32, with Interventions score 9-18",32,32,"No","-",0,5092,0,0,5092,211,0
+"VA12C","Multiple Trauma Diagnoses score 33-50, with Interventions score 9-18",47,47,"No","-",0,6538,0,0,6538,211,0
+"VA12D","Multiple Trauma Diagnoses score >=51, with Interventions score 9-18",85,85,"No","-",0,9746,0,0,9746,211,0
+"VA13A","Multiple Trauma Diagnoses score <=23, with Interventions score 19-29",19,19,"No","-",0,3943,0,0,3943,211,0
+"VA13B","Multiple Trauma Diagnoses score 24-32, with Interventions score 19-29",31,31,"No","-",0,5575,0,0,5575,211,0
+"VA13C","Multiple Trauma Diagnoses score 33-50, with Interventions score 19-29",44,44,"No","-",0,7570,0,0,7570,211,0
+"VA13D","Multiple Trauma Diagnoses score >=51, with Interventions score 19-29",93,93,"No","-",0,11665,0,0,11665,211,0
+"VA14A","Multiple Trauma Diagnoses score <=23, with Interventions score 30-44",22,22,"No","-",0,5951,0,0,5951,211,0
+"VA14B","Multiple Trauma Diagnoses score 24-32, with Interventions score 30-44",33,33,"No","-",0,7272,0,0,7272,211,0
+"VA14C","Multiple Trauma Diagnoses score 33-50, with Interventions score 30-44",50,50,"No","-",0,9487,0,0,9487,211,0
+"VA14D","Multiple Trauma Diagnoses score >=51, with Interventions score 30-44",97,97,"No","-",0,14280,0,0,14280,211,0
+"VA15A","Multiple Trauma Diagnoses score <=23, with Interventions score >=45",32,32,"No","-",0,8348,0,0,8348,211,0
+"VA15B","Multiple Trauma Diagnoses score 24-32, with Interventions score >=45",50,50,"No","-",0,13788,0,0,13788,211,0
+"VA15C","Multiple Trauma Diagnoses score 33-50, with Interventions score >=45",73,73,"No","-",0,14580,0,0,14580,211,0
+"VA15D","Multiple Trauma Diagnoses score >=51, with Interventions score >=45",128,128,"No","-",0,24672,0,0,24672,211,0
+"WA01W","Manifestations of HIV or AIDS, with CC",5,24,"Yes","30%",0,900,0,0,3717,198,1115
+"WA01Y","Manifestations of HIV or AIDS, without CC",5,14,"Yes","30%",0,468,0,0,2438,198,731
+"WA02W","Disorders of Immunity without HIV or AIDS, with CC",5,13,"Yes","40%",0,359,0,0,1632,198,653
+"WA02Y","Disorders of Immunity without HIV or AIDS, without CC",5,5,"Yes","100%",0,318,0,0,431,198,431
+"WA03V","Septicaemia with Major CC",36,36,"Yes","30%",0,3736,0,0,3736,198,1121
+"WA03X","Septicaemia with Intermediate CC",19,18,"Yes","30%",0,2633,0,0,2453,198,736
+"WA03Y","Septicaemia without CC",11,14,"Yes","30%",0,1307,0,0,1795,198,539
+"WA04S","Acute Febrile Illness with length of stay 4 days or less, with Major CC",5,6,"Yes","65%",0,759,0,0,931,198,605
+"WA04T","Acute Febrile Illness with length of stay 4 days or less, with Intermediate CC",5,5,"Yes","100%",0,759,0,0,709,198,709
+"WA04U","Acute Febrile Illness with length of stay 4 days or less, without CC",5,5,"Yes","100%",0,511,0,0,560,198,560
+"WA05Q","Pyrexia of Unknown Origin with length of stay 5 days or more, with CC",26,18,"No","-",0,3785,0,0,2889,198,0
+"WA05R","Pyrexia of Unknown Origin with length of stay 5 days or more, without CC",6,15,"No","-",0,3652,0,0,2263,198,0
+"WA06W","Other Viral Illness with CC",15,5,"Yes","40%",0,2198,0,0,1034,198,414
+"WA06Y","Other Viral Illness without CC",5,5,"Yes","100%",0,871,0,0,1034,198,1034
+"WA07Z","Complex Infectious Diseases",5,23,"Yes","30%",0,186,0,0,2937,198,881
+"WA08Z","Malaria",9,6,"Yes","40%",0,1016,0,0,1308,198,523
+"WA09W","Other Non-Viral Infection with CC",5,25,"Yes","30%",0,1249,0,0,2961,198,888
+"WA09Y","Other Non-Viral Infection without CC",5,9,"Yes","40%",0,543,0,0,1520,198,609
+"WA10Z","Other Infections (Genito-Urinary Medicine)",5,9,"Yes","40%",0,888,0,0,1720,198,688
+"WA11V","Poisoning, Toxic, Environmental and Unspecified Effects, with Major CC",28,16,"Yes","30%",0,2211,0,0,1920,198,576
+"WA11X","Poisoning, Toxic, Environmental and Unspecified Effects, with Intermediate CC",5,5,"No","-",0,810,0,0,446,198,0
+"WA11Y","Poisoning, Toxic, Environmental and Unspecified Effects, without CC",5,5,"No","-",0,272,0,0,157,198,0
+"WA12V","Complications of Procedures with Major CC",20,30,"Yes","30%",0,2532,0,0,3784,198,1135
+"WA12X","Complications of Procedures with Intermediate CC",10,11,"Yes","30%",0,1632,0,0,2116,198,635
+"WA12Y","Complications of Procedures without CC",5,5,"Yes","65%",0,957,0,0,994,198,646
+"WA15K","Respite Care with length of stay 9 days or more, with Major CC",16,16,"No","-",0,8067,0,0,8067,198,0
+"WA15L","Respite Care with length of stay 9 days or more, with Intermediate CC",16,16,"No","-",0,8067,0,0,8067,198,0
+"WA15M","Respite Care with length of stay 9 days or more, without CC",16,16,"No","-",0,8067,0,0,8067,198,0
+"WA15N","Respite Care with length of stay between 5 and 8 days, with Major CC",7,7,"No","-",0,2157,0,0,3325,198,0
+"WA15O","Respite Care with length of stay between 5 and 8 days, with Intermediate CC",7,9,"No","-",0,2157,0,0,2418,198,0
+"WA15P","Respite Care with length of stay between 5 and 8 days, without CC",7,10,"No","-",0,2157,0,0,1490,196,0
+"WA15V","Respite Care with length of stay 4 days or less",7,5,"Yes","65%",0,889,0,0,817,198,531
+"WA16W","Shock and Anaphylaxis, with CC",5,5,"Yes","100%",0,871,0,0,510,198,510
+"WA16Y","Shock and Anaphylaxis, without CC",5,5,"Yes","100%",0,464,0,0,360,198,360
+"WA17V","Other Admissions Related to Neoplasms with Major CC",26,36,"Yes","30%",0,2454,0,0,3914,198,1174
+"WA17X","Other Admissions Related to Neoplasms with Intermediate CC",5,25,"Yes","30%",0,745,0,0,2691,198,807
+"WA17Y","Other Admissions Related to Neoplasms without CC",5,10,"Yes","40%",0,460,0,0,1739,198,696
+"WA18V","Admission for Unexplained Symptoms with Major CC",38,40,"Yes","30%",0,2577,0,0,3089,198,927
+"WA18X","Admission for Unexplained Symptoms with Intermediate CC",5,15,"Yes","30%",0,632,0,0,1857,198,557
+"WA18Y","Admission for Unexplained Symptoms without CC",5,5,"Yes","65%",0,215,0,0,711,198,462
+"WA19W","Abnormal Findings without Diagnosis, with CC",5,8,"Yes","40%",0,442,0,0,1365,198,546
+"WA19Y","Abnormal Findings without Diagnosis, without CC",5,5,"Yes","100%",0,306,0,0,427,198,427
+"WA20W","Examination, Follow-up or Special Screening, with CC",5,5,"Yes","65%",0,460,0,0,654,198,426
+"WA20Y","Examination, Follow-up or Special Screening, without CC",5,5,"Yes","100%",0,329,0,0,363,198,363
+"WA21W","Other Procedures or Health Care Problems, with CC",5,10,"Yes","30%",0,553,0,0,2235,198,670
+"WA21Y","Other Procedures or Health Care Problems, without CC",5,5,"Yes","100%",0,467,0,0,579,198,579
+"WA22V","Other Specified Admissions or Counselling, with Major CC",80,52,"Yes","30%",0,3515,0,0,3710,198,1113
+"WA22X","Other Specified Admissions or Counselling, with Intermediate CC",48,34,"Yes","30%",0,2374,0,0,2655,198,796
+"WA22Y","Other Specified Admissions or Counselling, without CC",5,5,"Yes","40%",0,264,0,0,844,198,338
+"WA23V","Falls without Specific Cause, with Major CC",69,47,"Yes","30%",0,4371,0,0,3365,198,1009
+"WA23X","Falls without Specific Cause, with Intermediate CC",67,29,"Yes","30%",0,4053,0,0,2404,198,721
+"WA23Y","Falls without Specific Cause, without CC",96,5,"Yes","40%",0,2311,0,0,998,198,400
+"WA24Z","Procedures on the Lymphatic System",5,36,"No","-",0,1802,0,0,4100,198,0
